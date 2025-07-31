@@ -2,13 +2,14 @@
 
 Find the best dry cleaners in Kittanning, Pennsylvania. We've compiled a list of 1 dry cleaning services to help you find the perfect one for your needs.
 
-🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/United States/Pennsylvania/Kittanning)**
+🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Pennsylvania/Kittanning)**
 
 ## Top Dry Cleaners
 
-### 1. Corner Laundromat
+### 1. [Corner Laundromat](https://drycleanersnear.com/dryCleaner/686735e9bb1702f4ee39b420/corner-laundromat)
 📍 176 S McKean St, Kittanning
 ⭐ Rating: 4/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/686735e9bb1702f4ee39b420/corner-laundromat)
 
 
 ---

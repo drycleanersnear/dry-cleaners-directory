@@ -6,8 +6,7 @@ Welcome to the comprehensive directory of dry cleaners worldwide. This repositor
 
 ## Browse by Country
 
-- [United States](./united-states/README.md) (23 states/regions, 285 cities)
-- [USA](./usa/README.md) (5 states/regions, 5 cities)
+- [United States](./united-states/README.md) (28 states/regions, 290 cities)
 
 ## About This Directory
 
