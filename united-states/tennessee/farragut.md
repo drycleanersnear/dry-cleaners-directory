@@ -15,4 +15,4 @@ Find the best dry cleaners in Farragut, Tennessee, United States. We've compiled
 
 ---
 
-*Last updated: 7/31/2025*
+*Last updated: 8/3/2025*

@@ -21,4 +21,4 @@ Find the best dry cleaners in Waynesboro, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 7/31/2025*
+*Last updated: 8/3/2025*
