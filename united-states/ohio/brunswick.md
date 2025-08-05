@@ -20,4 +20,4 @@ Find the best dry cleaners in Brunswick, Ohio, United States. We've compiled a l
 
 ---
 
-*Last updated: 8/3/2025*
+*Last updated: 8/5/2025*

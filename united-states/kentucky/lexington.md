@@ -70,4 +70,4 @@ Find the best dry cleaners in Lexington, Kentucky, United States. We've compiled
 
 ---
 
-*Last updated: 8/3/2025*
+*Last updated: 8/5/2025*
