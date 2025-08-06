@@ -6,7 +6,7 @@ Welcome to the comprehensive directory of dry cleaners across United Kingdom. Th
 
 ## Browse by State/Region
 
-- [England](./england/README.md) (17 cities)
+- [England](./england/README.md) (32 cities)
 
 ---
 

@@ -19,4 +19,4 @@ Find the best dry cleaners in Lewistown, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 8/5/2025*
+*Last updated: 8/6/2025*

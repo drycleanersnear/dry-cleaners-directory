@@ -29,4 +29,4 @@ Find the best dry cleaners in Halton Hills, Ontario, Canada. We've compiled a li
 
 ---
 
-*Last updated: 8/5/2025*
+*Last updated: 8/6/2025*

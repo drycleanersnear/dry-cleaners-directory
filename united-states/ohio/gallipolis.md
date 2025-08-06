@@ -14,4 +14,4 @@ Find the best dry cleaners in Gallipolis, Ohio, United States. We've compiled a 
 
 ---
 
-*Last updated: 8/5/2025*
+*Last updated: 8/6/2025*
