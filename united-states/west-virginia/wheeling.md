@@ -21,4 +21,4 @@ Find the best dry cleaners in Wheeling, West Virginia, United States. We've comp
 
 ---
 
-*Last updated: 8/6/2025*
+*Last updated: 8/7/2025*
