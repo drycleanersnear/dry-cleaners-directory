@@ -19,4 +19,4 @@ Find the best dry cleaners in Cushing, Oklahoma, United States. We've compiled a
 
 ---
 
-*Last updated: 8/7/2025*
+*Last updated: 8/8/2025*
