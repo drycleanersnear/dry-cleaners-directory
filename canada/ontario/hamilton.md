@@ -70,4 +70,4 @@ Find the best dry cleaners in Hamilton, Ontario, Canada. We've compiled a list o
 
 ---
 
-*Last updated: 8/8/2025*
+*Last updated: 8/9/2025*

@@ -2,7 +2,9 @@
 
 Browse dry cleaners by city in England:
 
+- [Aldridge](./aldridge.md)
 - [Balderton](./balderton.md)
+- [Barlaston](./barlaston.md)
 - [Beeston](./beeston.md)
 - [Birmingham](./birmingham.md)
 - [Bramhall](./bramhall.md)
@@ -12,6 +14,8 @@ Browse dry cleaners by city in England:
 - [Denton](./denton.md)
 - [Dorridge](./dorridge.md)
 - [Droylsden](./droylsden.md)
+- [Hale](./hale.md)
+- [Hartford](./hartford.md)
 - [Horsforth](./horsforth.md)
 - [Kimberley](./kimberley.md)
 - [Knowle](./knowle.md)
@@ -25,13 +29,17 @@ Browse dry cleaners by city in England:
 - [Milnrow](./milnrow.md)
 - [Newark-on-Trent](./newark-on-trent.md)
 - [Oadby](./oadby.md)
+- [Poynton](./poynton.md)
 - [Prestwich](./prestwich.md)
+- [Sale](./sale.md)
 - [Sandiacre](./sandiacre.md)
 - [Scarrington](./scarrington.md)
 - [Shepley](./shepley.md)
 - [Shirley](./shirley.md)
+- [Stoke-on-Trent](./stoke-on-trent.md)
 - [Stretford](./stretford.md)
 - [Syston](./syston.md)
+- [Timperley](./timperley.md)
 - [Unsworth](./unsworth.md)
 - [West Bridgford](./west-bridgford.md)
 
