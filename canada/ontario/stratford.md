@@ -14,4 +14,4 @@ Find the best dry cleaners in Stratford, Ontario, Canada. We've compiled a list 
 
 ---
 
-*Last updated: 8/9/2025*
+*Last updated: 8/10/2025*

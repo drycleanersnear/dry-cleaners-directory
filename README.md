@@ -8,7 +8,7 @@ Welcome to the comprehensive directory of dry cleaners worldwide. This repositor
 
 - [Canada](./canada/README.md) (1 states/regions, 13 cities)
 - [United Kingdom](./united-kingdom/README.md) (3 states/regions, 54 cities)
-- [United States](./united-states/README.md) (30 states/regions, 338 cities)
+- [United States](./united-states/README.md) (31 states/regions, 343 cities)
 
 ## About This Directory
 
@@ -42,4 +42,4 @@ To add or update dry cleaner information, please visit [DryCleanersNear.com](htt
 ---
 
 *This directory is automatically generated and updated daily.*
-*Last updated: 8/9/2025*
+*Last updated: 8/10/2025*
