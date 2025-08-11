@@ -14,6 +14,7 @@ Browse dry cleaners by city in England:
 - [Denton](./denton.md)
 - [Dorridge](./dorridge.md)
 - [Droylsden](./droylsden.md)
+- [Hagley](./hagley.md)
 - [Hale](./hale.md)
 - [Hartford](./hartford.md)
 - [Horsforth](./horsforth.md)
@@ -28,9 +29,12 @@ Browse dry cleaners by city in England:
 - [Menston](./menston.md)
 - [Milnrow](./milnrow.md)
 - [Newark-on-Trent](./newark-on-trent.md)
+- [Newcastle-under-Lyme](./newcastle-under-lyme.md)
 - [Oadby](./oadby.md)
 - [Poynton](./poynton.md)
 - [Prestwich](./prestwich.md)
+- [Quarry Bank](./quarry-bank.md)
+- [Quinton](./quinton.md)
 - [Sale](./sale.md)
 - [Sandiacre](./sandiacre.md)
 - [Scarrington](./scarrington.md)
@@ -42,6 +46,7 @@ Browse dry cleaners by city in England:
 - [Timperley](./timperley.md)
 - [Unsworth](./unsworth.md)
 - [West Bridgford](./west-bridgford.md)
+- [Wolverhampton](./wolverhampton.md)
 
 ---
 

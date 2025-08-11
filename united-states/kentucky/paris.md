@@ -21,4 +21,4 @@ Find the best dry cleaners in Paris, Kentucky, United States. We've compiled a l
 
 ---
 
-*Last updated: 8/10/2025*
+*Last updated: 8/11/2025*
