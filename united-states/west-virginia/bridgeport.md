@@ -14,4 +14,4 @@ Find the best dry cleaners in Bridgeport, West Virginia, United States. We've co
 
 ---
 
-*Last updated: 8/11/2025*
+*Last updated: 8/12/2025*
