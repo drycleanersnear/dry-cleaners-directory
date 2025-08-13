@@ -33,7 +33,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Pennsylvania](./pennsylvania/README.md) (45 cities)
 - [Rhode Island](./rhode-island/README.md) (1 cities)
 - [Tennessee](./tennessee/README.md) (30 cities)
-- [Texas](./texas/README.md) (4 cities)
+- [Texas](./texas/README.md) (13 cities)
 - [Washington](./washington/README.md) (2 cities)
 - [West Virginia](./west-virginia/README.md) (7 cities)
 - [WI](./wi/README.md) (1 cities)

@@ -14,4 +14,4 @@ Find the best dry cleaners in New Tazewell, Tennessee, United States. We've comp
 
 ---
 
-*Last updated: 8/12/2025*
+*Last updated: 8/13/2025*

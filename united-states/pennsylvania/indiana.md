@@ -41,4 +41,4 @@ Find the best dry cleaners in Indiana, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 8/12/2025*
+*Last updated: 8/13/2025*
