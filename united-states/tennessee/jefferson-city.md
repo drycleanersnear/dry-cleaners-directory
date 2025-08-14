@@ -19,4 +19,4 @@ Find the best dry cleaners in Jefferson City, Tennessee, United States. We've co
 
 ---
 
-*Last updated: 8/13/2025*
+*Last updated: 8/14/2025*
