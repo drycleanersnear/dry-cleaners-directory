@@ -36,4 +36,4 @@ Find the best dry cleaners in Brantford, Ontario, Canada. We've compiled a list 
 
 ---
 
-*Last updated: 8/14/2025*
+*Last updated: 8/15/2025*

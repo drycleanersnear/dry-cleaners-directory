@@ -38,4 +38,4 @@ Find the best dry cleaners in Gahanna, Ohio, United States. We've compiled a lis
 
 ---
 
-*Last updated: 8/14/2025*
+*Last updated: 8/15/2025*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Upper Arlington, Ohio, United States. We've compil
 
 ---
 
-*Last updated: 8/14/2025*
+*Last updated: 8/15/2025*
