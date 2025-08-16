@@ -13,4 +13,4 @@ Find the best dry cleaners in Rittman, Ohio, United States. We've compiled a lis
 
 ---
 
-*Last updated: 8/15/2025*
+*Last updated: 8/16/2025*
