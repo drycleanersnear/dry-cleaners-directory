@@ -13,4 +13,4 @@ Find the best dry cleaners in Saltsburg, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 8/16/2025*
+*Last updated: 8/17/2025*
