@@ -6,6 +6,8 @@ Welcome to the comprehensive directory of dry cleaners across Australia. This re
 
 ## Browse by State/Region
 
+- [Australian Capital Territory](./australian-capital-territory/README.md) (26 cities)
+- [New South Wales](./new-south-wales/README.md) (3 cities)
 - [Victoria](./victoria/README.md) (11 cities)
 
 ---
