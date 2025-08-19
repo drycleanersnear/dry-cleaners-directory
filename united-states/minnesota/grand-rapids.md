@@ -30,4 +30,4 @@ Find the best dry cleaners in Grand Rapids, Minnesota, United States. We've comp
 
 ---
 
-*Last updated: 8/18/2025*
+*Last updated: 8/19/2025*

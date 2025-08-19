@@ -15,4 +15,4 @@ Find the best dry cleaners in Hartford, England, United Kingdom. We've compiled 
 
 ---
 
-*Last updated: 8/18/2025*
+*Last updated: 8/19/2025*

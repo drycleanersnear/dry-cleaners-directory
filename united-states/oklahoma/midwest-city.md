@@ -20,4 +20,4 @@ Find the best dry cleaners in Midwest City, Oklahoma, United States. We've compi
 
 ---
 
-*Last updated: 8/18/2025*
+*Last updated: 8/19/2025*

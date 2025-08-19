@@ -14,4 +14,4 @@ Find the best dry cleaners in Belmont, Ohio, United States. We've compiled a lis
 
 ---
 
-*Last updated: 8/18/2025*
+*Last updated: 8/19/2025*
