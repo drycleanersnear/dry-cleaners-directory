@@ -21,4 +21,4 @@ Find the best dry cleaners in Powell, Ohio, United States. We've compiled a list
 
 ---
 
-*Last updated: 8/19/2025*
+*Last updated: 8/20/2025*

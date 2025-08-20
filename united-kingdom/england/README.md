@@ -3,11 +3,13 @@
 Browse dry cleaners by city in England:
 
 - [Aldridge](./aldridge.md)
+- [Avon](./avon.md)
 - [Balderton](./balderton.md)
 - [Barlaston](./barlaston.md)
 - [Beeston](./beeston.md)
 - [Birmingham](./birmingham.md)
 - [Bramhall](./bramhall.md)
+- [Bristol](./bristol.md)
 - [Burley in Wharfedale](./burley-in-wharfedale.md)
 - [Burton Latimer](./burton-latimer.md)
 - [Cheshire](./cheshire.md)
@@ -19,6 +21,7 @@ Browse dry cleaners by city in England:
 - [Hartford](./hartford.md)
 - [Horbury](./horbury.md)
 - [Horsforth](./horsforth.md)
+- [Keynsham](./keynsham.md)
 - [Kimberley](./kimberley.md)
 - [Knowle](./knowle.md)
 - [Langley Mill](./langley-mill.md)
@@ -33,6 +36,7 @@ Browse dry cleaners by city in England:
 - [Newark-on-Trent](./newark-on-trent.md)
 - [Newcastle-under-Lyme](./newcastle-under-lyme.md)
 - [Oadby](./oadby.md)
+- [Paulton](./paulton.md)
 - [Poynton](./poynton.md)
 - [Prestwich](./prestwich.md)
 - [Quarry Bank](./quarry-bank.md)
@@ -46,11 +50,13 @@ Browse dry cleaners by city in England:
 - [Shirley](./shirley.md)
 - [Stoke-on-Trent](./stoke-on-trent.md)
 - [Stretford](./stretford.md)
+- [Stroud](./stroud.md)
 - [Syston](./syston.md)
 - [Timperley](./timperley.md)
 - [Unsworth](./unsworth.md)
 - [West Bridgford](./west-bridgford.md)
 - [Wolverhampton](./wolverhampton.md)
+- [Yate](./yate.md)
 
 ---
 
