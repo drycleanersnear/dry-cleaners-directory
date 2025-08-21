@@ -14,4 +14,4 @@ Find the best dry cleaners in Beaver, Ohio, United States. We've compiled a list
 
 ---
 
-*Last updated: 8/20/2025*
+*Last updated: 8/21/2025*

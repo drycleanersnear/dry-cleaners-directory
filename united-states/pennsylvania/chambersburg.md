@@ -30,4 +30,4 @@ Find the best dry cleaners in Chambersburg, Pennsylvania, United States. We've c
 
 ---
 
-*Last updated: 8/20/2025*
+*Last updated: 8/21/2025*
