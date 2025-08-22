@@ -14,4 +14,4 @@ Find the best dry cleaners in Triadelphia, West Virginia, United States. We've c
 
 ---
 
-*Last updated: 8/21/2025*
+*Last updated: 8/22/2025*
