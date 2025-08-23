@@ -19,4 +19,4 @@ Find the best dry cleaners in Daly City, California, United States. We've compil
 
 ---
 
-*Last updated: 8/22/2025*
+*Last updated: 8/23/2025*

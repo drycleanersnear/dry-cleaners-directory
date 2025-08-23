@@ -15,4 +15,4 @@ Find the best dry cleaners in Lakeville, Massachusetts, United States. We've com
 
 ---
 
-*Last updated: 8/22/2025*
+*Last updated: 8/23/2025*
