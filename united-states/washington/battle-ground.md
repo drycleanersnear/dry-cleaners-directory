@@ -20,4 +20,4 @@ Find the best dry cleaners in Battle Ground, Washington, United States. We've co
 
 ---
 
-*Last updated: 8/23/2025*
+*Last updated: 8/24/2025*
