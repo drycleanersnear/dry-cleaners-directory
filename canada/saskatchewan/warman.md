@@ -21,4 +21,4 @@ Find the best dry cleaners in Warman, Saskatchewan, Canada. We've compiled a lis
 
 ---
 
-*Last updated: 8/24/2025*
+*Last updated: 8/25/2025*

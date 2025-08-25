@@ -7,6 +7,7 @@ Welcome to the comprehensive directory of dry cleaners across Canada. This repos
 ## Browse by State/Region
 
 - [Alberta](./alberta/README.md) (2 cities)
+- [Manitoba](./manitoba/README.md) (5 cities)
 - [Ontario](./ontario/README.md) (19 cities)
 - [Quebec](./quebec/README.md) (2 cities)
 - [Québec](./qu-bec/README.md) (6 cities)
