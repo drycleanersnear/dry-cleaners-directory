@@ -10,6 +10,7 @@ Welcome to the comprehensive directory of dry cleaners across Australia. This re
 - [New South Wales](./new-south-wales/README.md) (7 cities)
 - [Queensland](./queensland/README.md) (39 cities)
 - [Victoria](./victoria/README.md) (11 cities)
+- [Western Australia](./western-australia/README.md) (45 cities)
 
 ---
 
