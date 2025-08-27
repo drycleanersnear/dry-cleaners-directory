@@ -15,4 +15,4 @@ Find the best dry cleaners in Richmond, Texas, United States. We've compiled a l
 
 ---
 
-*Last updated: 8/26/2025*
+*Last updated: 8/27/2025*
