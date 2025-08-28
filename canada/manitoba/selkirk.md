@@ -15,4 +15,4 @@ Find the best dry cleaners in Selkirk, Manitoba, Canada. We've compiled a list o
 
 ---
 
-*Last updated: 8/28/2025*
+*Last updated: 8/29/2025*

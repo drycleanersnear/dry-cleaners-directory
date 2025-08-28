@@ -19,4 +19,4 @@ Find the best dry cleaners in Bitche, Grand Est, France. We've compiled a list o
 
 ---
 
-*Last updated: 8/28/2025*
+*Last updated: 8/29/2025*

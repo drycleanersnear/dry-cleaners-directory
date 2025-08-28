@@ -31,4 +31,4 @@ Find the best dry cleaners in Carlisle, Pennsylvania, United States. We've compi
 
 ---
 
-*Last updated: 8/28/2025*
+*Last updated: 8/29/2025*

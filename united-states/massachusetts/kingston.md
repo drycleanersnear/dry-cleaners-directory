@@ -21,4 +21,4 @@ Find the best dry cleaners in Kingston, Massachusetts, United States. We've comp
 
 ---
 
-*Last updated: 8/28/2025*
+*Last updated: 8/29/2025*
