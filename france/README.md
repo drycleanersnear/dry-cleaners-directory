@@ -6,6 +6,7 @@ Welcome to the comprehensive directory of dry cleaners across France. This repos
 
 ## Browse by State/Region
 
+- [Grand Est](./grand-est/README.md) (29 cities)
 - [Hauts-de-France](./hauts-de-france/README.md) (50 cities)
 
 ---

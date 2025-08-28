@@ -14,4 +14,4 @@ Find the best dry cleaners in Vandergrift, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 8/27/2025*
+*Last updated: 8/28/2025*
