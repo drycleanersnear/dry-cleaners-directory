@@ -21,4 +21,4 @@ Find the best dry cleaners in Lenoir City, Tennessee, United States. We've compi
 
 ---
 
-*Last updated: 8/29/2025*
+*Last updated: 8/30/2025*

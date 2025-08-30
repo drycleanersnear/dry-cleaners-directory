@@ -15,4 +15,4 @@ Find the best dry cleaners in Loretto, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 8/29/2025*
+*Last updated: 8/30/2025*

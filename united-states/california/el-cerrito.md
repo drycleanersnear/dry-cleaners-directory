@@ -15,4 +15,4 @@ Find the best dry cleaners in El Cerrito, California, United States. We've compi
 
 ---
 
-*Last updated: 8/29/2025*
+*Last updated: 8/30/2025*

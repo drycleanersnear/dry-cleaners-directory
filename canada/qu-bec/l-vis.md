@@ -1,6 +1,6 @@
 # Dry Cleaners in Lévis, Québec, Canada
 
-Find the best dry cleaners in Lévis, Québec, Canada. We've compiled a list of 10 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Lévis, Québec, Canada. We've compiled a list of 11 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/Canada/Qu%C3%A9bec/L%C3%A9vis)**
 
@@ -51,15 +51,20 @@ Find the best dry cleaners in Lévis, Québec, Canada. We've compiled a list of 
 🌐 Website: http://nettoyeurclaudehamel.com/
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/68a7d011606e51ce7f219f71/nettoyeur-hamel-claude-inc)
 
-### 9. [Nettoyeur Michel Forget](https://drycleanersnear.com/dryCleaner/68a7d02d606e51ce7f21a0c7/nettoyeur-michel-forget)
+### 9. [Laundromat 77](https://drycleanersnear.com/dryCleaner/68b25ba27c6648653da58f03/laundromat-77)
+📍 77 Av. Bégin, Lévis
+⭐ Rating: 3.9/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/68b25ba27c6648653da58f03/laundromat-77)
+
+### 10. [Nettoyeur Michel Forget](https://drycleanersnear.com/dryCleaner/68a7d02d606e51ce7f21a0c7/nettoyeur-michel-forget)
 📍 880 Rue Commerciale, Saint-Jean-Chrysostome
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/68a7d02d606e51ce7f21a0c7/nettoyeur-michel-forget)
 
-### 10. [Nettoyeur Prestige Enr](https://drycleanersnear.com/dryCleaner/68a7cfee606e51ce7f219df2/nettoyeur-prestige-enr)
-📍 17 Rue Saint-Louis, Lévis
-🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/68a7cfee606e51ce7f219df2/nettoyeur-prestige-enr)
 
+*...and 1 more dry cleaners!*
+
+[View all 11 dry cleaners in Lévis →](https://drycleanersnear.com/city/Canada/Qu%C3%A9bec/L%C3%A9vis)
 
 ---
 
-*Last updated: 8/29/2025*
+*Last updated: 8/30/2025*
