@@ -20,4 +20,4 @@ Find the best dry cleaners in Ishpeming, Michigan, United States. We've compiled
 
 ---
 
-*Last updated: 8/30/2025*
+*Last updated: 11/2/2025*
