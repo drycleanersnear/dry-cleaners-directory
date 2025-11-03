@@ -27,4 +27,4 @@ Find the best dry cleaners in Georgetown, Kentucky, United States. We've compile
 
 ---
 
-*Last updated: 11/2/2025*
+*Last updated: 11/3/2025*
