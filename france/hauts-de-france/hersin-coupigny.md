@@ -14,4 +14,4 @@ Find the best dry cleaners in Hersin-Coupigny, Hauts-de-France, France. We've co
 
 ---
 
-*Last updated: 11/4/2025*
+*Last updated: 11/5/2025*
