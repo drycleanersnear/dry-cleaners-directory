@@ -15,4 +15,4 @@ Find the best dry cleaners in Barnstable, Massachusetts, United States. We've co
 
 ---
 
-*Last updated: 11/5/2025*
+*Last updated: 11/6/2025*
