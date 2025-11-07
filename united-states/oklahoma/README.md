@@ -2,6 +2,7 @@
 
 Browse dry cleaners by city in Oklahoma:
 
+- [Ada](./ada.md)
 - [Altus](./altus.md)
 - [Bristow](./bristow.md)
 - [Cushing](./cushing.md)
@@ -12,15 +13,20 @@ Browse dry cleaners by city in Oklahoma:
 - [Frederick](./frederick.md)
 - [Guthrie](./guthrie.md)
 - [Hartshorne](./hartshorne.md)
+- [Henryetta](./henryetta.md)
 - [Hobart](./hobart.md)
+- [Holdenville](./holdenville.md)
 - [McAlester](./mcalester.md)
 - [Midwest City](./midwest-city.md)
 - [Moore](./moore.md)
 - [Norman](./norman.md)
+- [Okemah](./okemah.md)
 - [Oklahoma City](./oklahoma-city.md)
 - [Perkins](./perkins.md)
+- [Seminole](./seminole.md)
 - [Stillwater](./stillwater.md)
 - [Warr Acres](./warr-acres.md)
+- [Wewoka](./wewoka.md)
 - [Wilburton](./wilburton.md)
 - [Yukon](./yukon.md)
 
