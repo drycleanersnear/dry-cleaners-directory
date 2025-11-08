@@ -15,4 +15,4 @@ Find the best dry cleaners in Fouquières-lès-Béthune, Hauts-de-France, France
 
 ---
 
-*Last updated: 11/7/2025*
+*Last updated: 11/8/2025*
