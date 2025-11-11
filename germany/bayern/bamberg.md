@@ -21,4 +21,4 @@ Find the best dry cleaners in Bamberg, Bayern, Germany. We've compiled a list of
 
 ---
 
-*Last updated: 11/10/2025*
+*Last updated: 11/11/2025*
