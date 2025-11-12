@@ -15,4 +15,4 @@ Find the best dry cleaners in Weißenburg in Bayern, Bayern, Germany. We've comp
 
 ---
 
-*Last updated: 11/11/2025*
+*Last updated: 11/12/2025*
