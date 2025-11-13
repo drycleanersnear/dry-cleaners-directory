@@ -19,6 +19,7 @@ Browse dry cleaners by city in Missouri:
 - [Kaiser](./kaiser.md)
 - [Kirkwood](./kirkwood.md)
 - [Lake Ozark](./lake-ozark.md)
+- [Lancaster](./lancaster.md)
 - [Maplewood](./maplewood.md)
 - [O'Fallon](./o-fallon.md)
 - [Osage Beach](./osage-beach.md)

@@ -14,4 +14,4 @@ Find the best dry cleaners in Höchstadt, Bayern, Germany. We've compiled a list
 
 ---
 
-*Last updated: 11/12/2025*
+*Last updated: 11/13/2025*
