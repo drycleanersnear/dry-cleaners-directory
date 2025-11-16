@@ -14,4 +14,4 @@ Find the best dry cleaners in Shinnston, West Virginia, United States. We've com
 
 ---
 
-*Last updated: 11/15/2025*
+*Last updated: 11/16/2025*
