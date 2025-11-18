@@ -13,4 +13,4 @@ Find the best dry cleaners in Felanitx, Illes Balears, Spain. We've compiled a l
 
 ---
 
-*Last updated: 11/17/2025*
+*Last updated: 11/18/2025*

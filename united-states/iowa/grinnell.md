@@ -19,4 +19,4 @@ Find the best dry cleaners in Grinnell, Iowa, United States. We've compiled a li
 
 ---
 
-*Last updated: 11/17/2025*
+*Last updated: 11/18/2025*
