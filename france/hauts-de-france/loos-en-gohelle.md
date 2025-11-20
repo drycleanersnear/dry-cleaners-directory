@@ -15,4 +15,4 @@ Find the best dry cleaners in Loos-en-Gohelle, Hauts-de-France, France. We've co
 
 ---
 
-*Last updated: 11/19/2025*
+*Last updated: 11/20/2025*
