@@ -13,4 +13,4 @@ Find the best dry cleaners in Nuremberg, Bavaria, Germany. We've compiled a list
 
 ---
 
-*Last updated: 11/20/2025*
+*Last updated: 11/21/2025*
