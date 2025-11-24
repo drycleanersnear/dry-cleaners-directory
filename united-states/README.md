@@ -37,6 +37,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Oregon](./oregon/README.md) (18 cities)
 - [Pennsylvania](./pennsylvania/README.md) (52 cities)
 - [Rhode Island](./rhode-island/README.md) (1 cities)
+- [South Carolina](./south-carolina/README.md) (10 cities)
 - [Tennessee](./tennessee/README.md) (30 cities)
 - [Texas](./texas/README.md) (43 cities)
 - [Vermont](./vermont/README.md) (19 cities)
