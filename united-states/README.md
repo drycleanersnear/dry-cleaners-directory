@@ -41,6 +41,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Tennessee](./tennessee/README.md) (30 cities)
 - [Texas](./texas/README.md) (43 cities)
 - [Vermont](./vermont/README.md) (19 cities)
+- [Virginia](./virginia/README.md) (15 cities)
 - [Washington](./washington/README.md) (2 cities)
 - [West Virginia](./west-virginia/README.md) (7 cities)
 - [WI](./wi/README.md) (1 cities)
