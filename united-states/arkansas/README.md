@@ -10,6 +10,7 @@ Browse dry cleaners by city in Arkansas:
 - [Dumas](./dumas.md)
 - [Elkins](./elkins.md)
 - [Fayetteville](./fayetteville.md)
+- [Fort Smith](./fort-smith.md)
 - [Garfield](./garfield.md)
 - [Gentry](./gentry.md)
 - [Hamburg](./hamburg.md)

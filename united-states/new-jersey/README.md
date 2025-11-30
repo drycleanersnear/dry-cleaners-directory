@@ -12,6 +12,7 @@ Browse dry cleaners by city in New Jersey:
 - [Jersey City](./jersey-city.md)
 - [Neptune City](./neptune-city.md)
 - [Perth Amboy](./perth-amboy.md)
+- [Rutherford](./rutherford.md)
 
 ---
 

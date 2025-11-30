@@ -14,4 +14,4 @@ Find the best dry cleaners in Heroldsberg, Bayern, Germany. We've compiled a lis
 
 ---
 
-*Last updated: 11/27/2025*
+*Last updated: 11/30/2025*

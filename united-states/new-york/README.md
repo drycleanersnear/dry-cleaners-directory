@@ -7,6 +7,7 @@ Browse dry cleaners by city in New York:
 - [Bronxville](./bronxville.md)
 - [Conklin](./conklin.md)
 - [Endicott](./endicott.md)
+- [Glen Cove](./glen-cove.md)
 - [Hartsdale](./hartsdale.md)
 - [Hicksville](./hicksville.md)
 - [Johnson City](./johnson-city.md)
@@ -14,7 +15,9 @@ Browse dry cleaners by city in New York:
 - [New York City](./new-york-city.md)
 - [Rosedale](./rosedale.md)
 - [Tuckahoe](./tuckahoe.md)
+- [Uniondale](./uniondale.md)
 - [Vestal](./vestal.md)
+- [West Hempstead](./west-hempstead.md)
 
 ---
 

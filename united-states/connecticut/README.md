@@ -2,6 +2,7 @@
 
 Browse dry cleaners by city in Connecticut:
 
+- [Norwalk](./norwalk.md)
 - [Stamford](./stamford.md)
 
 ---
