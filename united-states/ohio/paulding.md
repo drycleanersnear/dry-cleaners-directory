@@ -14,4 +14,4 @@ Find the best dry cleaners in Paulding, Ohio, United States. We've compiled a li
 
 ---
 
-*Last updated: 11/30/2025*
+*Last updated: 12/1/2025*
