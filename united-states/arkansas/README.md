@@ -15,6 +15,7 @@ Browse dry cleaners by city in Arkansas:
 - [Gentry](./gentry.md)
 - [Hamburg](./hamburg.md)
 - [Holiday Island](./holiday-island.md)
+- [Hope](./hope.md)
 - [Huntsville](./huntsville.md)
 - [Jacksonville](./jacksonville.md)
 - [Lake Village](./lake-village.md)
@@ -22,12 +23,14 @@ Browse dry cleaners by city in Arkansas:
 - [Little Rock](./little-rock.md)
 - [Lonoke](./lonoke.md)
 - [Lowell](./lowell.md)
+- [Magnolia](./magnolia.md)
 - [McGehee](./mcgehee.md)
 - [Monticello](./monticello.md)
 - [North Little Rock](./north-little-rock.md)
 - [Pea Ridge](./pea-ridge.md)
 - [Pine Bluff](./pine-bluff.md)
 - [Prairie Grove](./prairie-grove.md)
+- [Prescott](./prescott.md)
 - [Redfield](./redfield.md)
 - [Rogers](./rogers.md)
 - [Sherwood](./sherwood.md)
@@ -35,6 +38,7 @@ Browse dry cleaners by city in Arkansas:
 - [Springdale](./springdale.md)
 - [Star City](./star-city.md)
 - [Stuttgart](./stuttgart.md)
+- [Texarkana](./texarkana.md)
 
 ---
 

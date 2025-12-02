@@ -14,4 +14,4 @@ Find the best dry cleaners in Portage, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 12/1/2025*
+*Last updated: 12/2/2025*
