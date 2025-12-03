@@ -19,4 +19,4 @@ Find the best dry cleaners in Geneva, Ohio, United States. We've compiled a list
 
 ---
 
-*Last updated: 12/2/2025*
+*Last updated: 12/3/2025*

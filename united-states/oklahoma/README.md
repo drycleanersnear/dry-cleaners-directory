@@ -41,6 +41,7 @@ Browse dry cleaners by city in Oklahoma:
 - [Sallisaw](./sallisaw.md)
 - [Sayre](./sayre.md)
 - [Seminole](./seminole.md)
+- [Shawnee](./shawnee.md)
 - [Spiro](./spiro.md)
 - [Stigler](./stigler.md)
 - [Stillwater](./stillwater.md)

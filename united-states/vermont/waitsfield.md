@@ -14,4 +14,4 @@ Find the best dry cleaners in Waitsfield, Vermont, United States. We've compiled
 
 ---
 
-*Last updated: 12/2/2025*
+*Last updated: 12/3/2025*
