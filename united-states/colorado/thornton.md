@@ -27,4 +27,4 @@ Find the best dry cleaners in Thornton, Colorado, United States. We've compiled 
 
 ---
 
-*Last updated: 12/3/2025*
+*Last updated: 12/4/2025*
