@@ -15,4 +15,4 @@ Find the best dry cleaners in Alcúdia, Illes Balears, Spain. We've compiled a l
 
 ---
 
-*Last updated: 12/4/2025*
+*Last updated: 12/5/2025*

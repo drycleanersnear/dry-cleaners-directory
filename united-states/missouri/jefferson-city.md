@@ -15,4 +15,4 @@ Find the best dry cleaners in Jefferson City, Missouri, United States. We've com
 
 ---
 
-*Last updated: 12/4/2025*
+*Last updated: 12/5/2025*

@@ -14,4 +14,4 @@ Find the best dry cleaners in East Bridgewater, Massachusetts, United States. We
 
 ---
 
-*Last updated: 12/4/2025*
+*Last updated: 12/5/2025*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Hirschaid, Bayern, Germany. We've compiled a list 
 
 ---
 
-*Last updated: 12/4/2025*
+*Last updated: 12/5/2025*

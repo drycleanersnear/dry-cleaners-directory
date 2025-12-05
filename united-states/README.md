@@ -17,7 +17,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Kentucky](./kentucky/README.md) (15 cities)
 - [Louisiana](./louisiana/README.md) (20 cities)
 - [Maine](./maine/README.md) (45 cities)
-- [Maryland](./maryland/README.md) (3 cities)
+- [Maryland](./maryland/README.md) (6 cities)
 - [Massachusetts](./massachusetts/README.md) (25 cities)
 - [MI](./mi/README.md) (1 cities)
 - [Michigan](./michigan/README.md) (3 cities)
@@ -43,9 +43,9 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Tennessee](./tennessee/README.md) (30 cities)
 - [Texas](./texas/README.md) (45 cities)
 - [Vermont](./vermont/README.md) (19 cities)
-- [Virginia](./virginia/README.md) (15 cities)
+- [Virginia](./virginia/README.md) (20 cities)
 - [Washington](./washington/README.md) (2 cities)
-- [West Virginia](./west-virginia/README.md) (7 cities)
+- [West Virginia](./west-virginia/README.md) (13 cities)
 - [WI](./wi/README.md) (1 cities)
 
 ---
