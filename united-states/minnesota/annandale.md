@@ -15,4 +15,4 @@ Find the best dry cleaners in Annandale, Minnesota, United States. We've compile
 
 ---
 
-*Last updated: 12/5/2025*
+*Last updated: 12/6/2025*

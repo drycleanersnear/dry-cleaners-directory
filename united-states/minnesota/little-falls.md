@@ -15,4 +15,4 @@ Find the best dry cleaners in Little Falls, Minnesota, United States. We've comp
 
 ---
 
-*Last updated: 12/5/2025*
+*Last updated: 12/6/2025*
