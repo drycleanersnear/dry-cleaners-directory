@@ -19,4 +19,4 @@ Find the best dry cleaners in Cochran, Georgia, United States. We've compiled a 
 
 ---
 
-*Last updated: 12/6/2025*
+*Last updated: 12/7/2025*
