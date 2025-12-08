@@ -15,4 +15,4 @@ Find the best dry cleaners in Bully-les-Mines, Hauts-de-France, France. We've co
 
 ---
 
-*Last updated: 12/7/2025*
+*Last updated: 12/8/2025*

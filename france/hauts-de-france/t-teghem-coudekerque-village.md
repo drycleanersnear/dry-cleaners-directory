@@ -14,4 +14,4 @@ Find the best dry cleaners in Téteghem-Coudekerque-Village, Hauts-de-France, Fr
 
 ---
 
-*Last updated: 12/7/2025*
+*Last updated: 12/8/2025*

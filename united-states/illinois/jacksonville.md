@@ -24,4 +24,4 @@ Find the best dry cleaners in Jacksonville, Illinois, United States. We've compi
 
 ---
 
-*Last updated: 12/7/2025*
+*Last updated: 12/8/2025*

@@ -30,7 +30,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [New Hampshire](./new-hampshire/README.md) (2 cities)
 - [New Jersey](./new-jersey/README.md) (11 cities)
 - [New Mexico](./new-mexico/README.md) (7 cities)
-- [New York](./new-york/README.md) (16 cities)
+- [New York](./new-york/README.md) (39 cities)
 - [North Dakota](./north-dakota/README.md) (4 cities)
 - [NY](./ny/README.md) (1 cities)
 - [OH](./oh/README.md) (1 cities)

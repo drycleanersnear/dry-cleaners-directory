@@ -32,4 +32,4 @@ Find the best dry cleaners in Waterloo, Ontario, Canada. We've compiled a list o
 
 ---
 
-*Last updated: 12/7/2025*
+*Last updated: 12/8/2025*
