@@ -14,4 +14,4 @@ Find the best dry cleaners in New Stanton, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 12/8/2025*
+*Last updated: 12/9/2025*

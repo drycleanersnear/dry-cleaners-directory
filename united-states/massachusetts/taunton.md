@@ -45,4 +45,4 @@ Find the best dry cleaners in Taunton, Massachusetts, United States. We've compi
 
 ---
 
-*Last updated: 12/8/2025*
+*Last updated: 12/9/2025*
