@@ -15,4 +15,4 @@ Find the best dry cleaners in Old Lyme, Connecticut, United States. We've compil
 
 ---
 
-*Last updated: 12/9/2025*
+*Last updated: 12/10/2025*
