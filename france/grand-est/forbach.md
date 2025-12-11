@@ -20,4 +20,4 @@ Find the best dry cleaners in Forbach, Grand Est, France. We've compiled a list 
 
 ---
 
-*Last updated: 12/10/2025*
+*Last updated: 12/11/2025*
