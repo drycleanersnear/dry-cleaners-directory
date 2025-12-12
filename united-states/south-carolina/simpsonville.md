@@ -36,4 +36,4 @@ Find the best dry cleaners in Simpsonville, South Carolina, United States. We've
 
 ---
 
-*Last updated: 12/11/2025*
+*Last updated: 12/12/2025*

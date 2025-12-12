@@ -20,4 +20,4 @@ Find the best dry cleaners in Perry, Georgia, United States. We've compiled a li
 
 ---
 
-*Last updated: 12/11/2025*
+*Last updated: 12/12/2025*

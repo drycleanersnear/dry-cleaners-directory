@@ -10,6 +10,7 @@ Browse dry cleaners by city in New York:
 - [Cobleskill](./cobleskill.md)
 - [Conklin](./conklin.md)
 - [Cooperstown](./cooperstown.md)
+- [East Norwich](./east-norwich.md)
 - [Endicott](./endicott.md)
 - [Fort Plain](./fort-plain.md)
 - [Glen Cove](./glen-cove.md)

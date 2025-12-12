@@ -1,6 +1,6 @@
 # Dry Cleaners in New York, New York, United States
 
-Find the best dry cleaners in New York, New York, United States. We've compiled a list of 44 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in New York, New York, United States. We've compiled a list of 45 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/New%20York/New%20York)**
 
@@ -62,10 +62,10 @@ Find the best dry cleaners in New York, New York, United States. We've compiled 
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/686dcd6304b0376d46bba78f/h2o-laundry-dry-cleaner)
 
 
-*...and 34 more dry cleaners!*
+*...and 35 more dry cleaners!*
 
-[View all 44 dry cleaners in New York →](https://drycleanersnear.com/city/US/New%20York/New%20York)
+[View all 45 dry cleaners in New York →](https://drycleanersnear.com/city/US/New%20York/New%20York)
 
 ---
 
-*Last updated: 12/11/2025*
+*Last updated: 12/12/2025*
