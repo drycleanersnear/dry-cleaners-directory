@@ -20,4 +20,4 @@ Find the best dry cleaners in Gloversville, New York, United States. We've compi
 
 ---
 
-*Last updated: 12/12/2025*
+*Last updated: 12/13/2025*

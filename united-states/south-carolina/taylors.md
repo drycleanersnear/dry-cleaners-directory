@@ -19,4 +19,4 @@ Find the best dry cleaners in Taylors, South Carolina, United States. We've comp
 
 ---
 
-*Last updated: 12/12/2025*
+*Last updated: 12/13/2025*

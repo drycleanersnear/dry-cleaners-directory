@@ -24,4 +24,4 @@ Find the best dry cleaners in Homer, Louisiana, United States. We've compiled a 
 
 ---
 
-*Last updated: 12/12/2025*
+*Last updated: 12/13/2025*

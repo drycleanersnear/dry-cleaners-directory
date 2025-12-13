@@ -14,4 +14,4 @@ Find the best dry cleaners in Kittanning, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 12/12/2025*
+*Last updated: 12/13/2025*
