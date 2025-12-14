@@ -15,4 +15,4 @@ Find the best dry cleaners in Mount Vernon, Ohio, United States. We've compiled 
 
 ---
 
-*Last updated: 12/13/2025*
+*Last updated: 12/14/2025*

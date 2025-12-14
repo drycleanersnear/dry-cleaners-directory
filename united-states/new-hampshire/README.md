@@ -2,8 +2,10 @@
 
 Browse dry cleaners by city in New Hampshire:
 
+- [Dover](./dover.md)
 - [Haverhill](./haverhill.md)
 - [Littleton](./littleton.md)
+- [Somersworth](./somersworth.md)
 
 ---
 

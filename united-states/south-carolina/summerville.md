@@ -41,4 +41,4 @@ Find the best dry cleaners in Summerville, South Carolina, United States. We've 
 
 ---
 
-*Last updated: 12/13/2025*
+*Last updated: 12/14/2025*
