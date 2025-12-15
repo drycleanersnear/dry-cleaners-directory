@@ -20,4 +20,4 @@ Find the best dry cleaners in Bridgton, Maine, United States. We've compiled a l
 
 ---
 
-*Last updated: 12/14/2025*
+*Last updated: 12/15/2025*

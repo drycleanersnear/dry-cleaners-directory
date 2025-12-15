@@ -36,7 +36,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [North Dakota](./north-dakota/README.md) (4 cities)
 - [NY](./ny/README.md) (1 cities)
 - [OH](./oh/README.md) (1 cities)
-- [Ohio](./ohio/README.md) (84 cities)
+- [Ohio](./ohio/README.md) (85 cities)
 - [Oklahoma](./oklahoma/README.md) (51 cities)
 - [Oregon](./oregon/README.md) (18 cities)
 - [Pennsylvania](./pennsylvania/README.md) (90 cities)

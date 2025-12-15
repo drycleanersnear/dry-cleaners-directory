@@ -61,6 +61,7 @@ Browse dry cleaners by city in Ohio:
 - [Northfield](./northfield.md)
 - [Painesville](./painesville.md)
 - [Parma](./parma.md)
+- [Pataskala](./pataskala.md)
 - [Paulding](./paulding.md)
 - [Pickerington](./pickerington.md)
 - [Piketon](./piketon.md)
