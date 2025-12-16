@@ -14,4 +14,4 @@ Find the best dry cleaners in Oakdale, Louisiana, United States. We've compiled 
 
 ---
 
-*Last updated: 12/15/2025*
+*Last updated: 12/16/2025*

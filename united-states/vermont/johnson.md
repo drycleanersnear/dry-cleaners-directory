@@ -14,4 +14,4 @@ Find the best dry cleaners in Johnson, Vermont, United States. We've compiled a 
 
 ---
 
-*Last updated: 12/15/2025*
+*Last updated: 12/16/2025*

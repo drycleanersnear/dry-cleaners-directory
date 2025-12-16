@@ -27,4 +27,4 @@ Find the best dry cleaners in Middletown, Connecticut, United States. We've comp
 
 ---
 
-*Last updated: 12/15/2025*
+*Last updated: 12/16/2025*
