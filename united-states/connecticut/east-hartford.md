@@ -19,4 +19,4 @@ Find the best dry cleaners in East Hartford, Connecticut, United States. We've c
 
 ---
 
-*Last updated: 12/17/2025*
+*Last updated: 12/18/2025*

@@ -26,4 +26,4 @@ Find the best dry cleaners in Charles Town, West Virginia, United States. We've 
 
 ---
 
-*Last updated: 12/17/2025*
+*Last updated: 12/18/2025*
