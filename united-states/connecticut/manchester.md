@@ -14,4 +14,4 @@ Find the best dry cleaners in Manchester, Connecticut, United States. We've comp
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*

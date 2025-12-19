@@ -19,4 +19,4 @@ Find the best dry cleaners in Ford City, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*

@@ -32,4 +32,4 @@ Find the best dry cleaners in Kearney, Nebraska, United States. We've compiled a
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*

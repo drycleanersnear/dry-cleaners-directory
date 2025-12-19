@@ -61,4 +61,4 @@ Find the best dry cleaners in Fayetteville, Arkansas, United States. We've compi
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*

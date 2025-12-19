@@ -31,4 +31,4 @@ Find the best dry cleaners in Cranberry Township, Pennsylvania, United States. W
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*

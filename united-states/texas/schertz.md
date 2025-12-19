@@ -15,4 +15,4 @@ Find the best dry cleaners in Schertz, Texas, United States. We've compiled a li
 
 ---
 
-*Last updated: 12/18/2025*
+*Last updated: 12/19/2025*
