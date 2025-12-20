@@ -15,4 +15,4 @@ Find the best dry cleaners in Sarralbe, Grand Est, France. We've compiled a list
 
 ---
 
-*Last updated: 12/19/2025*
+*Last updated: 12/20/2025*

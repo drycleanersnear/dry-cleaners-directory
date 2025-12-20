@@ -20,4 +20,4 @@ Find the best dry cleaners in Northern Cambria, Pennsylvania, United States. We'
 
 ---
 
-*Last updated: 12/19/2025*
+*Last updated: 12/20/2025*

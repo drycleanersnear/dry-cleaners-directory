@@ -14,4 +14,4 @@ Find the best dry cleaners in Archbald, Pennsylvania, United States. We've compi
 
 ---
 
-*Last updated: 12/19/2025*
+*Last updated: 12/20/2025*
