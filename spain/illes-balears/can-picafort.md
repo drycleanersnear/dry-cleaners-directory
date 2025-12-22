@@ -14,4 +14,4 @@ Find the best dry cleaners in Can Picafort, Illes Balears, Spain. We've compiled
 
 ---
 
-*Last updated: 12/21/2025*
+*Last updated: 12/22/2025*

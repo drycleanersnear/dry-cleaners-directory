@@ -20,4 +20,4 @@ Find the best dry cleaners in Versailles, Kentucky, United States. We've compile
 
 ---
 
-*Last updated: 12/21/2025*
+*Last updated: 12/22/2025*
