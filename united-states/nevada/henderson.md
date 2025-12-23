@@ -50,4 +50,4 @@ Find the best dry cleaners in Henderson, Nevada, United States. We've compiled a
 
 ---
 
-*Last updated: 12/22/2025*
+*Last updated: 12/23/2025*

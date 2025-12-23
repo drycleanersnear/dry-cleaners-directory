@@ -19,4 +19,4 @@ Find the best dry cleaners in Jasper, Texas, United States. We've compiled a lis
 
 ---
 
-*Last updated: 12/22/2025*
+*Last updated: 12/23/2025*

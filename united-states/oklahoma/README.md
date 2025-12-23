@@ -24,6 +24,8 @@ Browse dry cleaners by city in Oklahoma:
 - [Henryetta](./henryetta.md)
 - [Hobart](./hobart.md)
 - [Holdenville](./holdenville.md)
+- [Hugo](./hugo.md)
+- [Idabel](./idabel.md)
 - [Lawton](./lawton.md)
 - [Lindsay](./lindsay.md)
 - [Marlow](./marlow.md)
