@@ -14,4 +14,4 @@ Find the best dry cleaners in LaFollette, Tennessee, United States. We've compil
 
 ---
 
-*Last updated: 12/23/2025*
+*Last updated: 12/24/2025*

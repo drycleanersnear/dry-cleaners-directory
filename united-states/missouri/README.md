@@ -2,8 +2,10 @@
 
 Browse dry cleaners by city in Missouri:
 
+- [Affton](./affton.md)
 - [Anderson](./anderson.md)
 - [Ballwin](./ballwin.md)
+- [Black Jack](./black-jack.md)
 - [Brentwood](./brentwood.md)
 - [California](./california.md)
 - [Camdenton](./camdenton.md)
@@ -16,6 +18,7 @@ Browse dry cleaners by city in Missouri:
 - [Ellisville](./ellisville.md)
 - [Ferguson](./ferguson.md)
 - [Florissant](./florissant.md)
+- [Granite City](./granite-city.md)
 - [Hazelwood](./hazelwood.md)
 - [Jefferson City](./jefferson-city.md)
 - [Kaiser](./kaiser.md)
