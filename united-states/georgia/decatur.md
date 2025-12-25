@@ -19,4 +19,4 @@ Find the best dry cleaners in Decatur, Georgia, United States. We've compiled a 
 
 ---
 
-*Last updated: 12/24/2025*
+*Last updated: 12/25/2025*

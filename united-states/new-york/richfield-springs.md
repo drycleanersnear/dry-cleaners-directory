@@ -14,4 +14,4 @@ Find the best dry cleaners in Richfield Springs, New York, United States. We've 
 
 ---
 
-*Last updated: 12/24/2025*
+*Last updated: 12/25/2025*
