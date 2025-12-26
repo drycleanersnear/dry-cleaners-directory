@@ -14,4 +14,4 @@ Find the best dry cleaners in Manacor, Illes Balears, Spain. We've compiled a li
 
 ---
 
-*Last updated: 12/25/2025*
+*Last updated: 12/26/2025*
