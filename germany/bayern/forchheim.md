@@ -20,4 +20,4 @@ Find the best dry cleaners in Forchheim, Bayern, Germany. We've compiled a list 
 
 ---
 
-*Last updated: 12/27/2025*
+*Last updated: 12/28/2025*

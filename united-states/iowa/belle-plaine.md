@@ -14,4 +14,4 @@ Find the best dry cleaners in Belle Plaine, Iowa, United States. We've compiled 
 
 ---
 
-*Last updated: 12/27/2025*
+*Last updated: 12/28/2025*
