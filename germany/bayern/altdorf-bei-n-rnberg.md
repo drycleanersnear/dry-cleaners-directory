@@ -15,4 +15,4 @@ Find the best dry cleaners in Altdorf bei Nürnberg, Bayern, Germany. We've comp
 
 ---
 
-*Last updated: 12/28/2025*
+*Last updated: 12/29/2025*

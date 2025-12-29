@@ -69,4 +69,4 @@ Find the best dry cleaners in North Charleston, South Carolina, United States. W
 
 ---
 
-*Last updated: 12/28/2025*
+*Last updated: 12/29/2025*

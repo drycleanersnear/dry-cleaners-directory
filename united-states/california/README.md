@@ -5,6 +5,7 @@ Browse dry cleaners by city in California:
 - [Albany](./albany.md)
 - [Brisbane](./brisbane.md)
 - [Castro Valley](./castro-valley.md)
+- [Clearlake](./clearlake.md)
 - [Daly City](./daly-city.md)
 - [Danville](./danville.md)
 - [El Cerrito](./el-cerrito.md)
@@ -29,6 +30,7 @@ Browse dry cleaners by city in California:
 - [Sonora](./sonora.md)
 - [South San Francisco](./south-san-francisco.md)
 - [Sunnyvale](./sunnyvale.md)
+- [Ukiah](./ukiah.md)
 
 ---
 

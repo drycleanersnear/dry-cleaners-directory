@@ -25,4 +25,4 @@ Find the best dry cleaners in Gary, Indiana, United States. We've compiled a lis
 
 ---
 
-*Last updated: 12/28/2025*
+*Last updated: 12/29/2025*
