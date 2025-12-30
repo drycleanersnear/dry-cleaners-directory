@@ -18,4 +18,4 @@ Find the best dry cleaners in Lake Village, Arkansas, United States. We've compi
 
 ---
 
-*Last updated: 12/29/2025*
+*Last updated: 12/30/2025*

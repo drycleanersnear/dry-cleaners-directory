@@ -14,4 +14,4 @@ Find the best dry cleaners in Anson, Maine, United States. We've compiled a list
 
 ---
 
-*Last updated: 12/29/2025*
+*Last updated: 12/30/2025*

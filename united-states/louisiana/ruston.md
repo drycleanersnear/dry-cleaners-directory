@@ -27,4 +27,4 @@ Find the best dry cleaners in Ruston, Louisiana, United States. We've compiled a
 
 ---
 
-*Last updated: 12/29/2025*
+*Last updated: 12/30/2025*
