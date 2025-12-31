@@ -36,4 +36,4 @@ Find the best dry cleaners in Erlangen, Bayern, Germany. We've compiled a list o
 
 ---
 
-*Last updated: 12/30/2025*
+*Last updated: 12/31/2025*
