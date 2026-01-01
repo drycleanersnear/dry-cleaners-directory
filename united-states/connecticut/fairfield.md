@@ -15,4 +15,4 @@ Find the best dry cleaners in Fairfield, Connecticut, United States. We've compi
 
 ---
 
-*Last updated: 12/31/2025*
+*Last updated: 1/1/2026*

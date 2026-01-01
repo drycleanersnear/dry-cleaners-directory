@@ -48,7 +48,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Vermont](./vermont/README.md) (32 cities)
 - [Virginia](./virginia/README.md) (38 cities)
 - [Washington](./washington/README.md) (2 cities)
-- [West Virginia](./west-virginia/README.md) (16 cities)
+- [West Virginia](./west-virginia/README.md) (30 cities)
 - [WI](./wi/README.md) (1 cities)
 - [Wyoming](./wyoming/README.md) (2 cities)
 

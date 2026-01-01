@@ -24,4 +24,4 @@ Find the best dry cleaners in Sainte-Marie, Québec, Canada. We've compiled a li
 
 ---
 
-*Last updated: 12/31/2025*
+*Last updated: 1/1/2026*

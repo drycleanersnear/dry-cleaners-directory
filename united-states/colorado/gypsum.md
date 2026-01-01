@@ -20,4 +20,4 @@ Find the best dry cleaners in Gypsum, Colorado, United States. We've compiled a 
 
 ---
 
-*Last updated: 12/31/2025*
+*Last updated: 1/1/2026*
