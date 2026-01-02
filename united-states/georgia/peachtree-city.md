@@ -14,4 +14,4 @@ Find the best dry cleaners in Peachtree City, Georgia, United States. We've comp
 
 ---
 
-*Last updated: 1/1/2026*
+*Last updated: 1/2/2026*
