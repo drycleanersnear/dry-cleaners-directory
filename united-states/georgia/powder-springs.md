@@ -25,4 +25,4 @@ Find the best dry cleaners in Powder Springs, Georgia, United States. We've comp
 
 ---
 
-*Last updated: 1/2/2026*
+*Last updated: 1/3/2026*

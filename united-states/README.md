@@ -15,7 +15,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Georgia](./georgia/README.md) (63 cities)
 - [Illinois](./illinois/README.md) (39 cities)
 - [Indiana](./indiana/README.md) (13 cities)
-- [Iowa](./iowa/README.md) (20 cities)
+- [Iowa](./iowa/README.md) (37 cities)
 - [Kentucky](./kentucky/README.md) (19 cities)
 - [Louisiana](./louisiana/README.md) (20 cities)
 - [Maine](./maine/README.md) (59 cities)

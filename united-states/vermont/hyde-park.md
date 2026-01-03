@@ -15,4 +15,4 @@ Find the best dry cleaners in Hyde Park, Vermont, United States. We've compiled 
 
 ---
 
-*Last updated: 1/2/2026*
+*Last updated: 1/3/2026*

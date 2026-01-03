@@ -13,4 +13,4 @@ Find the best dry cleaners in Twin City, Georgia, United States. We've compiled 
 
 ---
 
-*Last updated: 1/2/2026*
+*Last updated: 1/3/2026*
