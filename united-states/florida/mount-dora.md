@@ -1,6 +1,6 @@
 # Dry Cleaners in Mount Dora, Florida, United States
 
-Find the best dry cleaners in Mount Dora, Florida, United States. We've compiled a list of 3 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Mount Dora, Florida, United States. We've compiled a list of 4 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Florida/Mount%20Dora)**
 
@@ -23,7 +23,12 @@ Find the best dry cleaners in Mount Dora, Florida, United States. We've compiled
 🌐 Website: http://www.spincityfl.com/
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/6885883aaef64230e206aeca/spin-city-laundry)
 
+### 4. [Alysa Dry Cleaners](https://drycleanersnear.com/dryCleaner/6959ca0df57d8472e593ff3a/alysa-dry-cleaners)
+📍 18969 US-441, Mt Dora
+⭐ Rating: 3.1/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/6959ca0df57d8472e593ff3a/alysa-dry-cleaners)
+
 
 ---
 
-*Last updated: 1/3/2026*
+*Last updated: 1/4/2026*

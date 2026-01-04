@@ -15,4 +15,4 @@ Find the best dry cleaners in Chapmanville, West Virginia, United States. We've 
 
 ---
 
-*Last updated: 1/3/2026*
+*Last updated: 1/4/2026*

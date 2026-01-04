@@ -15,4 +15,4 @@ Find the best dry cleaners in Calvià, Illes Balears, Spain. We've compiled a li
 
 ---
 
-*Last updated: 1/3/2026*
+*Last updated: 1/4/2026*

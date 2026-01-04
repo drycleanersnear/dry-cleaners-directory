@@ -14,4 +14,4 @@ Find the best dry cleaners in Kings Mountain, North Carolina, United States. We'
 
 ---
 
-*Last updated: 1/3/2026*
+*Last updated: 1/4/2026*
