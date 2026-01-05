@@ -14,4 +14,4 @@ Find the best dry cleaners in Mount Sterling, Kentucky, United States. We've com
 
 ---
 
-*Last updated: 1/4/2026*
+*Last updated: 1/5/2026*

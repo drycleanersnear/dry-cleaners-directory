@@ -1,6 +1,6 @@
 # Dry Cleaners in Stone Mountain, Georgia, United States
 
-Find the best dry cleaners in Stone Mountain, Georgia, United States. We've compiled a list of 5 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Stone Mountain, Georgia, United States. We've compiled a list of 6 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Georgia/Stone%20Mountain)**
 
@@ -27,7 +27,13 @@ Find the best dry cleaners in Stone Mountain, Georgia, United States. We've comp
 ⭐ Rating: 4.7/5
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/69193113c8c96758112ede8a/sparkly-green-cleaners)
 
-### 5. [Sparkle Cleaners & Laundry](https://drycleanersnear.com/dryCleaner/69193091c8c96758112ed7ad/sparkle-cleaners-laundry)
+### 5. [G Dry Cleaners](https://drycleanersnear.com/dryCleaner/695b1bc12b5c22aec0aeb18b/g-dry-cleaners)
+📍 4452 Rockbridge Rd SW, Stone Mountain
+⭐ Rating: 4.4/5
+🌐 Website: http://www.embroderysign.com/
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/695b1bc12b5c22aec0aeb18b/g-dry-cleaners)
+
+### 6. [Sparkle Cleaners & Laundry](https://drycleanersnear.com/dryCleaner/69193091c8c96758112ed7ad/sparkle-cleaners-laundry)
 📍 1054 Main St, Stone Mountain
 ⭐ Rating: 3.9/5
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/69193091c8c96758112ed7ad/sparkle-cleaners-laundry)
@@ -35,4 +41,4 @@ Find the best dry cleaners in Stone Mountain, Georgia, United States. We've comp
 
 ---
 
-*Last updated: 1/4/2026*
+*Last updated: 1/5/2026*

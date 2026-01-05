@@ -14,4 +14,4 @@ Find the best dry cleaners in Newport, Maine, United States. We've compiled a li
 
 ---
 
-*Last updated: 1/4/2026*
+*Last updated: 1/5/2026*

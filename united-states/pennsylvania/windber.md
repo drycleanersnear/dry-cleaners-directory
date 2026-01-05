@@ -19,4 +19,4 @@ Find the best dry cleaners in Windber, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 1/4/2026*
+*Last updated: 1/5/2026*
