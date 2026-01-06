@@ -14,4 +14,4 @@ Find the best dry cleaners in Homer City, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 1/5/2026*
+*Last updated: 1/6/2026*

@@ -26,4 +26,4 @@ Find the best dry cleaners in South Charleston, West Virginia, United States. We
 
 ---
 
-*Last updated: 1/5/2026*
+*Last updated: 1/6/2026*

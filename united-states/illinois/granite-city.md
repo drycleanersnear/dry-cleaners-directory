@@ -20,4 +20,4 @@ Find the best dry cleaners in Granite City, Illinois, United States. We've compi
 
 ---
 
-*Last updated: 1/5/2026*
+*Last updated: 1/6/2026*
