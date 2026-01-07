@@ -49,4 +49,4 @@ Find the best dry cleaners in Charleston, West Virginia, United States. We've co
 
 ---
 
-*Last updated: 1/6/2026*
+*Last updated: 1/7/2026*

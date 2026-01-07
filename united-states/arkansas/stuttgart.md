@@ -19,4 +19,4 @@ Find the best dry cleaners in Stuttgart, Arkansas, United States. We've compiled
 
 ---
 
-*Last updated: 1/6/2026*
+*Last updated: 1/7/2026*
