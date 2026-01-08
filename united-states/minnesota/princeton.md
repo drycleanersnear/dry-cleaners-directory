@@ -25,4 +25,4 @@ Find the best dry cleaners in Princeton, Minnesota, United States. We've compile
 
 ---
 
-*Last updated: 1/7/2026*
+*Last updated: 1/8/2026*

@@ -20,4 +20,4 @@ Find the best dry cleaners in Scott, Louisiana, United States. We've compiled a 
 
 ---
 
-*Last updated: 1/7/2026*
+*Last updated: 1/8/2026*

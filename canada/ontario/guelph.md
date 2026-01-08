@@ -42,4 +42,4 @@ Find the best dry cleaners in Guelph, Ontario, Canada. We've compiled a list of 
 
 ---
 
-*Last updated: 1/7/2026*
+*Last updated: 1/8/2026*
