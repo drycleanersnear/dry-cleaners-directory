@@ -2,8 +2,10 @@
 
 Browse dry cleaners by city in Indiana:
 
+- [Berne](./berne.md)
 - [Crown Point](./crown-point.md)
 - [De Motte](./de-motte.md)
+- [Decatur](./decatur.md)
 - [Dyer](./dyer.md)
 - [Gary](./gary.md)
 - [Hammond](./hammond.md)
@@ -15,6 +17,7 @@ Browse dry cleaners by city in Indiana:
 - [Saint John](./saint-john.md)
 - [Schererville](./schererville.md)
 - [Valparaiso](./valparaiso.md)
+- [Winchester](./winchester.md)
 
 ---
 

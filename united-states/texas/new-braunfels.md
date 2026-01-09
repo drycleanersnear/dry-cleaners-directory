@@ -49,4 +49,4 @@ Find the best dry cleaners in New Braunfels, Texas, United States. We've compile
 
 ---
 
-*Last updated: 1/8/2026*
+*Last updated: 1/9/2026*
