@@ -14,4 +14,4 @@ Find the best dry cleaners in Ada, Ohio, United States. We've compiled a list of
 
 ---
 
-*Last updated: 1/9/2026*
+*Last updated: 1/10/2026*

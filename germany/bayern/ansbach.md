@@ -20,4 +20,4 @@ Find the best dry cleaners in Ansbach, Bayern, Germany. We've compiled a list of
 
 ---
 
-*Last updated: 1/9/2026*
+*Last updated: 1/10/2026*

@@ -13,4 +13,4 @@ Find the best dry cleaners in West Grove, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 1/9/2026*
+*Last updated: 1/10/2026*

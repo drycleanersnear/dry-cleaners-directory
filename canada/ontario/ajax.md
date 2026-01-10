@@ -15,4 +15,4 @@ Find the best dry cleaners in Ajax, Ontario, Canada. We've compiled a list of 1 
 
 ---
 
-*Last updated: 1/9/2026*
+*Last updated: 1/10/2026*
