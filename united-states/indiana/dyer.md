@@ -20,4 +20,4 @@ Find the best dry cleaners in Dyer, Indiana, United States. We've compiled a lis
 
 ---
 
-*Last updated: 1/10/2026*
+*Last updated: 1/11/2026*

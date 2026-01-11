@@ -63,4 +63,4 @@ Find the best dry cleaners in Nürnberg, Bayern, Germany. We've compiled a list 
 
 ---
 
-*Last updated: 1/10/2026*
+*Last updated: 1/11/2026*

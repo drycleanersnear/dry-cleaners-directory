@@ -5,6 +5,7 @@ Browse dry cleaners by city in Louisiana:
 - [Bernice](./bernice.md)
 - [Breaux Bridge](./breaux-bridge.md)
 - [Bunkie](./bunkie.md)
+- [Castor](./castor.md)
 - [Church Point](./church-point.md)
 - [Eunice](./eunice.md)
 - [Homer](./homer.md)

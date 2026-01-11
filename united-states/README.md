@@ -18,7 +18,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Indiana](./indiana/README.md) (16 cities)
 - [Iowa](./iowa/README.md) (37 cities)
 - [Kentucky](./kentucky/README.md) (19 cities)
-- [Louisiana](./louisiana/README.md) (20 cities)
+- [Louisiana](./louisiana/README.md) (21 cities)
 - [Maine](./maine/README.md) (59 cities)
 - [Maryland](./maryland/README.md) (6 cities)
 - [Massachusetts](./massachusetts/README.md) (25 cities)
