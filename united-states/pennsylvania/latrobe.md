@@ -30,4 +30,4 @@ Find the best dry cleaners in Latrobe, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 1/11/2026*
+*Last updated: 1/12/2026*

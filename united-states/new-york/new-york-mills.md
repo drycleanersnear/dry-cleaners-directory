@@ -15,4 +15,4 @@ Find the best dry cleaners in New York Mills, New York, United States. We've com
 
 ---
 
-*Last updated: 1/11/2026*
+*Last updated: 1/12/2026*

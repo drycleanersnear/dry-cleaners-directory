@@ -15,4 +15,4 @@ Find the best dry cleaners in Berkeley Springs, West Virginia, United States. We
 
 ---
 
-*Last updated: 1/11/2026*
+*Last updated: 1/12/2026*
