@@ -19,6 +19,7 @@ Browse dry cleaners by city in Missouri:
 - [Des Peres](./des-peres.md)
 - [Eldon](./eldon.md)
 - [Ellisville](./ellisville.md)
+- [Elsberry](./elsberry.md)
 - [Ferguson](./ferguson.md)
 - [Florissant](./florissant.md)
 - [Granite City](./granite-city.md)

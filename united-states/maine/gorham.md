@@ -14,4 +14,4 @@ Find the best dry cleaners in Gorham, Maine, United States. We've compiled a lis
 
 ---
 
-*Last updated: 1/12/2026*
+*Last updated: 1/13/2026*

@@ -4,6 +4,7 @@ Browse dry cleaners by city in Illinois:
 
 - [Aroma Park](./aroma-park.md)
 - [Ashland](./ashland.md)
+- [Beardstown](./beardstown.md)
 - [Belleville](./belleville.md)
 - [Bourbonnais](./bourbonnais.md)
 - [Carrollton](./carrollton.md)
@@ -22,6 +23,7 @@ Browse dry cleaners by city in Illinois:
 - [Homewood](./homewood.md)
 - [Jacksonville](./jacksonville.md)
 - [Jerseyville](./jerseyville.md)
+- [Kane](./kane.md)
 - [Kankakee](./kankakee.md)
 - [Lansing](./lansing.md)
 - [Lincoln](./lincoln.md)
@@ -33,6 +35,7 @@ Browse dry cleaners by city in Illinois:
 - [Orland Park](./orland-park.md)
 - [Park Forest](./park-forest.md)
 - [Petersburg](./petersburg.md)
+- [Pittsfield](./pittsfield.md)
 - [Pontoon Beach](./pontoon-beach.md)
 - [Richton Park](./richton-park.md)
 - [Scott Air Force Base](./scott-air-force-base.md)
@@ -40,6 +43,7 @@ Browse dry cleaners by city in Illinois:
 - [Springfield](./springfield.md)
 - [Swansea](./swansea.md)
 - [Tinley Park](./tinley-park.md)
+- [Virginia](./virginia.md)
 - [White Hall](./white-hall.md)
 
 ---

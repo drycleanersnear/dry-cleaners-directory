@@ -19,4 +19,4 @@ Find the best dry cleaners in Shippensburg, Pennsylvania, United States. We've c
 
 ---
 
-*Last updated: 1/12/2026*
+*Last updated: 1/13/2026*

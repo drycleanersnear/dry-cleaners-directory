@@ -15,4 +15,4 @@ Find the best dry cleaners in Colònia de Sant Jordi, Illes Balears, Spain. We'v
 
 ---
 
-*Last updated: 1/12/2026*
+*Last updated: 1/13/2026*
