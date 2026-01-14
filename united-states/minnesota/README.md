@@ -11,6 +11,7 @@ Browse dry cleaners by city in Minnesota:
 - [Buffalo](./buffalo.md)
 - [Clearwater](./clearwater.md)
 - [Cold Spring](./cold-spring.md)
+- [East Grand Forks](./east-grand-forks.md)
 - [Elk River](./elk-river.md)
 - [Fairmont](./fairmont.md)
 - [Foley](./foley.md)

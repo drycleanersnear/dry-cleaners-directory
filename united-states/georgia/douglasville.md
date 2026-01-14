@@ -48,4 +48,4 @@ Find the best dry cleaners in Douglasville, Georgia, United States. We've compil
 
 ---
 
-*Last updated: 1/13/2026*
+*Last updated: 1/14/2026*

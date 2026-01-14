@@ -15,4 +15,4 @@ Find the best dry cleaners in Steinbach, Manitoba, Canada. We've compiled a list
 
 ---
 
-*Last updated: 1/13/2026*
+*Last updated: 1/14/2026*
