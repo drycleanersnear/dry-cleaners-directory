@@ -35,4 +35,4 @@ Find the best dry cleaners in Cabot, Arkansas, United States. We've compiled a l
 
 ---
 
-*Last updated: 1/14/2026*
+*Last updated: 1/15/2026*

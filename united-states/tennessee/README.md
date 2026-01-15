@@ -7,6 +7,7 @@ Browse dry cleaners by city in Tennessee:
 - [Clinton](./clinton.md)
 - [Dandridge](./dandridge.md)
 - [Dickson](./dickson.md)
+- [Dyersburg](./dyersburg.md)
 - [Farragut](./farragut.md)
 - [Franklin](./franklin.md)
 - [Gallatin](./gallatin.md)

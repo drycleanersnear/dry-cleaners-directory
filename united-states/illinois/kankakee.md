@@ -15,4 +15,4 @@ Find the best dry cleaners in Kankakee, Illinois, United States. We've compiled 
 
 ---
 
-*Last updated: 1/14/2026*
+*Last updated: 1/15/2026*

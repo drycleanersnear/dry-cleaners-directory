@@ -7,7 +7,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 ## Browse by State/Region
 
 - [Alabama](./alabama/README.md) (19 cities)
-- [Arkansas](./arkansas/README.md) (37 cities)
+- [Arkansas](./arkansas/README.md) (41 cities)
 - [California](./california/README.md) (29 cities)
 - [Colorado](./colorado/README.md) (28 cities)
 - [Connecticut](./connecticut/README.md) (42 cities)
@@ -26,7 +26,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Michigan](./michigan/README.md) (3 cities)
 - [Minnesota](./minnesota/README.md) (40 cities)
 - [Mississippi](./mississippi/README.md) (1 cities)
-- [Missouri](./missouri/README.md) (49 cities)
+- [Missouri](./missouri/README.md) (54 cities)
 - [MN](./mn/README.md) (1 cities)
 - [Nebraska](./nebraska/README.md) (2 cities)
 - [Nevada](./nevada/README.md) (3 cities)
@@ -44,7 +44,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Pennsylvania](./pennsylvania/README.md) (129 cities)
 - [Rhode Island](./rhode-island/README.md) (1 cities)
 - [South Carolina](./south-carolina/README.md) (24 cities)
-- [Tennessee](./tennessee/README.md) (30 cities)
+- [Tennessee](./tennessee/README.md) (31 cities)
 - [Texas](./texas/README.md) (60 cities)
 - [Vermont](./vermont/README.md) (32 cities)
 - [Virginia](./virginia/README.md) (39 cities)

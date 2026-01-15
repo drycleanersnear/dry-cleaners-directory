@@ -15,4 +15,4 @@ Find the best dry cleaners in Fairview Heights, Illinois, United States. We've c
 
 ---
 
-*Last updated: 1/14/2026*
+*Last updated: 1/15/2026*

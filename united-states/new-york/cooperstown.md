@@ -20,4 +20,4 @@ Find the best dry cleaners in Cooperstown, New York, United States. We've compil
 
 ---
 
-*Last updated: 1/14/2026*
+*Last updated: 1/15/2026*

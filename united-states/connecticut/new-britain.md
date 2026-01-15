@@ -14,4 +14,4 @@ Find the best dry cleaners in New Britain, Connecticut, United States. We've com
 
 ---
 
-*Last updated: 1/14/2026*
+*Last updated: 1/15/2026*
