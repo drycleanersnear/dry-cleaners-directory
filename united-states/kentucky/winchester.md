@@ -24,4 +24,4 @@ Find the best dry cleaners in Winchester, Kentucky, United States. We've compile
 
 ---
 
-*Last updated: 1/15/2026*
+*Last updated: 1/16/2026*

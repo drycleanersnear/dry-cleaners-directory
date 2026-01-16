@@ -24,4 +24,4 @@ Find the best dry cleaners in Ellwood City, Pennsylvania, United States. We've c
 
 ---
 
-*Last updated: 1/15/2026*
+*Last updated: 1/16/2026*

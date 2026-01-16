@@ -25,4 +25,4 @@ Find the best dry cleaners in North Canton, Ohio, United States. We've compiled 
 
 ---
 
-*Last updated: 1/15/2026*
+*Last updated: 1/16/2026*

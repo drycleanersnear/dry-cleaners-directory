@@ -19,4 +19,4 @@ Find the best dry cleaners in Caruthersville, Missouri, United States. We've com
 
 ---
 
-*Last updated: 1/15/2026*
+*Last updated: 1/16/2026*

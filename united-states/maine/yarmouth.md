@@ -15,4 +15,4 @@ Find the best dry cleaners in Yarmouth, Maine, United States. We've compiled a l
 
 ---
 
-*Last updated: 1/15/2026*
+*Last updated: 1/16/2026*
