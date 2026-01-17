@@ -14,4 +14,4 @@ Find the best dry cleaners in Moorefield, West Virginia, United States. We've co
 
 ---
 
-*Last updated: 1/16/2026*
+*Last updated: 1/17/2026*
