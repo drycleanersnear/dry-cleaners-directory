@@ -39,4 +39,4 @@ Find the best dry cleaners in McKinney, Texas, United States. We've compiled a l
 
 ---
 
-*Last updated: 1/17/2026*
+*Last updated: 1/18/2026*

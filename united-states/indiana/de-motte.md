@@ -15,4 +15,4 @@ Find the best dry cleaners in De Motte, Indiana, United States. We've compiled a
 
 ---
 
-*Last updated: 1/17/2026*
+*Last updated: 1/18/2026*

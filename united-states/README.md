@@ -24,7 +24,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Massachusetts](./massachusetts/README.md) (25 cities)
 - [MI](./mi/README.md) (1 cities)
 - [Michigan](./michigan/README.md) (3 cities)
-- [Minnesota](./minnesota/README.md) (40 cities)
+- [Minnesota](./minnesota/README.md) (43 cities)
 - [Mississippi](./mississippi/README.md) (1 cities)
 - [Missouri](./missouri/README.md) (54 cities)
 - [MN](./mn/README.md) (1 cities)

@@ -20,4 +20,4 @@ Find the best dry cleaners in Clarks Summit, Pennsylvania, United States. We've 
 
 ---
 
-*Last updated: 1/17/2026*
+*Last updated: 1/18/2026*

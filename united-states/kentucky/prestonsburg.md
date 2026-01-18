@@ -15,4 +15,4 @@ Find the best dry cleaners in Prestonsburg, Kentucky, United States. We've compi
 
 ---
 
-*Last updated: 1/17/2026*
+*Last updated: 1/18/2026*
