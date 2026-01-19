@@ -66,4 +66,4 @@ Find the best dry cleaners in Lima, Ohio, United States. We've compiled a list o
 
 ---
 
-*Last updated: 1/18/2026*
+*Last updated: 1/19/2026*
