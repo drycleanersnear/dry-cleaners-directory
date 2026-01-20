@@ -55,4 +55,4 @@ Find the best dry cleaners in New Haven, Connecticut, United States. We've compi
 
 ---
 
-*Last updated: 1/19/2026*
+*Last updated: 1/20/2026*
