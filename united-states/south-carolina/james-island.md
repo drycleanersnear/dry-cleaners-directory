@@ -14,4 +14,4 @@ Find the best dry cleaners in James Island, South Carolina, United States. We've
 
 ---
 
-*Last updated: 1/20/2026*
+*Last updated: 1/21/2026*
