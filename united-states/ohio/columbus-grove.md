@@ -15,4 +15,4 @@ Find the best dry cleaners in Columbus Grove, Ohio, United States. We've compile
 
 ---
 
-*Last updated: 1/21/2026*
+*Last updated: 1/22/2026*

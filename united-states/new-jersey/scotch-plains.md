@@ -14,4 +14,4 @@ Find the best dry cleaners in Scotch Plains, New Jersey, United States. We've co
 
 ---
 
-*Last updated: 1/21/2026*
+*Last updated: 1/22/2026*

@@ -37,4 +37,4 @@ Find the best dry cleaners in Nicholasville, Kentucky, United States. We've comp
 
 ---
 
-*Last updated: 1/21/2026*
+*Last updated: 1/22/2026*
