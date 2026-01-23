@@ -26,4 +26,4 @@ Find the best dry cleaners in Saint Joseph, Minnesota, United States. We've comp
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

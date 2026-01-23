@@ -14,4 +14,4 @@ Find the best dry cleaners in Clinton, Maine, United States. We've compiled a li
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

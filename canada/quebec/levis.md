@@ -14,4 +14,4 @@ Find the best dry cleaners in Levis, Quebec, Canada. We've compiled a list of 1 
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

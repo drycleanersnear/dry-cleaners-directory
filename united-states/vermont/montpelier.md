@@ -26,4 +26,4 @@ Find the best dry cleaners in Montpelier, Vermont, United States. We've compiled
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

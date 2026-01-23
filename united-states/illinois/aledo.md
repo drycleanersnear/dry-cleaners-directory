@@ -13,4 +13,4 @@ Find the best dry cleaners in Aledo, Illinois, United States. We've compiled a l
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

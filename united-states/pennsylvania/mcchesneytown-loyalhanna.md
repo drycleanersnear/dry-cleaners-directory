@@ -15,4 +15,4 @@ Find the best dry cleaners in McChesneytown-Loyalhanna, Pennsylvania, United Sta
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*

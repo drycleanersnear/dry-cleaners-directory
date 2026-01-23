@@ -24,4 +24,4 @@ Find the best dry cleaners in Idabel, Oklahoma, United States. We've compiled a 
 
 ---
 
-*Last updated: 1/22/2026*
+*Last updated: 1/23/2026*
