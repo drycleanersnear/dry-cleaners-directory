@@ -18,4 +18,4 @@ Find the best dry cleaners in Prescott, Arkansas, United States. We've compiled 
 
 ---
 
-*Last updated: 1/23/2026*
+*Last updated: 1/24/2026*

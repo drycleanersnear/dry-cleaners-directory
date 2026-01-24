@@ -49,4 +49,4 @@ To add or update dry cleaner information, please visit [DryCleanersNear.com](htt
 ---
 
 *This directory is automatically generated and updated daily.*
-*Last updated: 1/23/2026*
+*Last updated: 1/24/2026*

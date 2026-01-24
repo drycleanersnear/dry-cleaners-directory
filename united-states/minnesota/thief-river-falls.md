@@ -24,4 +24,4 @@ Find the best dry cleaners in Thief River Falls, Minnesota, United States. We've
 
 ---
 
-*Last updated: 1/23/2026*
+*Last updated: 1/24/2026*

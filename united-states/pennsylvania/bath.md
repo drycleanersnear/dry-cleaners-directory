@@ -15,4 +15,4 @@ Find the best dry cleaners in Bath, Pennsylvania, United States. We've compiled 
 
 ---
 
-*Last updated: 1/23/2026*
+*Last updated: 1/24/2026*
