@@ -14,4 +14,4 @@ Find the best dry cleaners in Fergus, Ontario, Canada. We've compiled a list of 
 
 ---
 
-*Last updated: 1/24/2026*
+*Last updated: 1/25/2026*

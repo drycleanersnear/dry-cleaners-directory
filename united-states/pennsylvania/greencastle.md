@@ -14,4 +14,4 @@ Find the best dry cleaners in Greencastle, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 1/24/2026*
+*Last updated: 1/25/2026*

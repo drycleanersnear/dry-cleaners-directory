@@ -21,4 +21,4 @@ Find the best dry cleaners in Carterville, Illinois, United States. We've compil
 
 ---
 
-*Last updated: 1/24/2026*
+*Last updated: 1/25/2026*
