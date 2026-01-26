@@ -31,4 +31,4 @@ Find the best dry cleaners in Greensburg, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 1/25/2026*
+*Last updated: 1/26/2026*

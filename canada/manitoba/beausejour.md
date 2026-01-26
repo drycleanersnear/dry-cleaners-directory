@@ -14,4 +14,4 @@ Find the best dry cleaners in Beausejour, Manitoba, Canada. We've compiled a lis
 
 ---
 
-*Last updated: 1/25/2026*
+*Last updated: 1/26/2026*

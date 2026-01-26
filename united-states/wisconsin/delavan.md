@@ -25,4 +25,4 @@ Find the best dry cleaners in Delavan, Wisconsin, United States. We've compiled 
 
 ---
 
-*Last updated: 1/25/2026*
+*Last updated: 1/26/2026*
