@@ -20,4 +20,4 @@ Find the best dry cleaners in Veitsbronn, Bayern, Germany. We've compiled a list
 
 ---
 
-*Last updated: 1/26/2026*
+*Last updated: 1/27/2026*

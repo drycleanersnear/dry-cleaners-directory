@@ -1,6 +1,6 @@
 # Dry Cleaners in Hummelstown, Pennsylvania, United States
 
-Find the best dry cleaners in Hummelstown, Pennsylvania, United States. We've compiled a list of 2 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Hummelstown, Pennsylvania, United States. We've compiled a list of 3 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Pennsylvania/Hummelstown)**
 
@@ -12,7 +12,12 @@ Find the best dry cleaners in Hummelstown, Pennsylvania, United States. We've co
 🌐 Website: https://www.classicdrycleaner.com/
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/695f100e4fbe27f3cc9dccff/classic-drycleaners)
 
-### 2. [Pax Cleaners](https://drycleanersnear.com/dryCleaner/695f109e4fbe27f3cc9dd1e8/pax-cleaners)
+### 2. [WashBasket Laundromat](https://drycleanersnear.com/dryCleaner/69781cc30d758694e12f309d/washbasket-laundromat)
+📍 420 Walton Ave, Hummelstown
+⭐ Rating: 4/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/69781cc30d758694e12f309d/washbasket-laundromat)
+
+### 3. [Pax Cleaners](https://drycleanersnear.com/dryCleaner/695f109e4fbe27f3cc9dd1e8/pax-cleaners)
 📍 249 Hershey Rd, Hummelstown
 ⭐ Rating: 3.6/5
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/695f109e4fbe27f3cc9dd1e8/pax-cleaners)
@@ -20,4 +25,4 @@ Find the best dry cleaners in Hummelstown, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 1/26/2026*
+*Last updated: 1/27/2026*
