@@ -20,4 +20,4 @@ Find the best dry cleaners in Mauldin, South Carolina, United States. We've comp
 
 ---
 
-*Last updated: 1/27/2026*
+*Last updated: 1/28/2026*

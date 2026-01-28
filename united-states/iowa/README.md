@@ -7,6 +7,7 @@ Browse dry cleaners by city in Iowa:
 - [Altoona](./altoona.md)
 - [Ames](./ames.md)
 - [Ankeny](./ankeny.md)
+- [Baxter](./baxter.md)
 - [Belle Plaine](./belle-plaine.md)
 - [Bloomfield](./bloomfield.md)
 - [Boone](./boone.md)

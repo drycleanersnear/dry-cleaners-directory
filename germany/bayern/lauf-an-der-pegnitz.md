@@ -15,4 +15,4 @@ Find the best dry cleaners in Lauf an der Pegnitz, Bayern, Germany. We've compil
 
 ---
 
-*Last updated: 1/27/2026*
+*Last updated: 1/28/2026*
