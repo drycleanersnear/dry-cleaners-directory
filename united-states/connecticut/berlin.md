@@ -20,4 +20,4 @@ Find the best dry cleaners in Berlin, Connecticut, United States. We've compiled
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*

@@ -1,6 +1,6 @@
 # Dry Cleaners in University City, Missouri, United States
 
-Find the best dry cleaners in University City, Missouri, United States. We've compiled a list of 3 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in University City, Missouri, United States. We've compiled a list of 4 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Missouri/University%20City)**
 
@@ -24,7 +24,13 @@ Find the best dry cleaners in University City, Missouri, United States. We've co
 🌐 Website: http://www.thelooplaundry.com/
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/686f1ee51cef475d4de83ef4/the-loop-laundry)
 
+### 4. [Alexander Reed Cleaners](https://drycleanersnear.com/dryCleaner/697abf73fdf9e855c35160c2/alexander-reed-cleaners)
+📍 1220 North and South Rd, University City
+⭐ Rating: 4.2/5
+🌐 Website: http://www.alexanderreedcleaners.com/
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/697abf73fdf9e855c35160c2/alexander-reed-cleaners)
+
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*

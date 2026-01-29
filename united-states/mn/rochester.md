@@ -14,4 +14,4 @@ Find the best dry cleaners in Rochester, MN, United States. We've compiled a lis
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*

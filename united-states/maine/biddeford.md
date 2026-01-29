@@ -20,4 +20,4 @@ Find the best dry cleaners in Biddeford, Maine, United States. We've compiled a 
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*

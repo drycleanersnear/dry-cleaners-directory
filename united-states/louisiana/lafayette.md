@@ -67,4 +67,4 @@ Find the best dry cleaners in Lafayette, Louisiana, United States. We've compile
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*

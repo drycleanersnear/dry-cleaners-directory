@@ -19,4 +19,4 @@ Find the best dry cleaners in Carbondale, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 1/28/2026*
+*Last updated: 1/29/2026*
