@@ -26,4 +26,4 @@ Find the best dry cleaners in Sinking Spring, Pennsylvania, United States. We've
 
 ---
 
-*Last updated: 1/29/2026*
+*Last updated: 1/30/2026*

@@ -30,4 +30,4 @@ Find the best dry cleaners in Vidalia, Georgia, United States. We've compiled a 
 
 ---
 
-*Last updated: 1/29/2026*
+*Last updated: 1/30/2026*

@@ -14,4 +14,4 @@ Find the best dry cleaners in Caledonia, Ontario, Canada. We've compiled a list 
 
 ---
 
-*Last updated: 1/29/2026*
+*Last updated: 1/30/2026*

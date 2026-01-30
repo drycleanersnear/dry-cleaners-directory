@@ -15,4 +15,4 @@ Find the best dry cleaners in Herzogenaurach, Bayern, Germany. We've compiled a 
 
 ---
 
-*Last updated: 1/29/2026*
+*Last updated: 1/30/2026*
