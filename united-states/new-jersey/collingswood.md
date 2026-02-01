@@ -15,4 +15,4 @@ Find the best dry cleaners in Collingswood, New Jersey, United States. We've com
 
 ---
 
-*Last updated: 1/31/2026*
+*Last updated: 2/1/2026*

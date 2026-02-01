@@ -13,6 +13,7 @@ Browse dry cleaners by city in Iowa:
 - [Boone](./boone.md)
 - [Brooklyn](./brooklyn.md)
 - [Centerville](./centerville.md)
+- [Clarinda](./clarinda.md)
 - [Clive](./clive.md)
 - [Colfax](./colfax.md)
 - [Des Moines](./des-moines.md)
