@@ -24,4 +24,4 @@ Find the best dry cleaners in Honesdale, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

@@ -14,4 +14,4 @@ Find the best dry cleaners in Colfax, Iowa, United States. We've compiled a list
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

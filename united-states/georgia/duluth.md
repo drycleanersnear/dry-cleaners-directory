@@ -44,4 +44,4 @@ Find the best dry cleaners in Duluth, Georgia, United States. We've compiled a l
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

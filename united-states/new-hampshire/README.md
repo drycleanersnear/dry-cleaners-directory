@@ -9,6 +9,7 @@ Browse dry cleaners by city in New Hampshire:
 - [Haverhill](./haverhill.md)
 - [Lebanon](./lebanon.md)
 - [Littleton](./littleton.md)
+- [Nashua](./nashua.md)
 - [Newport](./newport.md)
 - [Somersworth](./somersworth.md)
 

@@ -14,4 +14,4 @@ Find the best dry cleaners in Pottstown, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

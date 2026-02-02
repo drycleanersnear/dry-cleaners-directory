@@ -14,4 +14,4 @@ Find the best dry cleaners in Walhalla, North Dakota, United States. We've compi
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

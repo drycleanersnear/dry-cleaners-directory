@@ -15,4 +15,4 @@ Find the best dry cleaners in New Brighton, Pennsylvania, United States. We've c
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*

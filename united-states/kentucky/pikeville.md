@@ -29,4 +29,4 @@ Find the best dry cleaners in Pikeville, Kentucky, United States. We've compiled
 
 ---
 
-*Last updated: 2/1/2026*
+*Last updated: 2/2/2026*
