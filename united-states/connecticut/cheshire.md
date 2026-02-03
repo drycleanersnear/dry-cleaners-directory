@@ -14,4 +14,4 @@ Find the best dry cleaners in Cheshire, Connecticut, United States. We've compil
 
 ---
 
-*Last updated: 2/2/2026*
+*Last updated: 2/3/2026*

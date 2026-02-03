@@ -6,14 +6,14 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 
 ## Browse by State/Region
 
-- [Alabama](./alabama/README.md) (19 cities)
+- [Alabama](./alabama/README.md) (20 cities)
 - [Arkansas](./arkansas/README.md) (41 cities)
 - [California](./california/README.md) (29 cities)
 - [Colorado](./colorado/README.md) (28 cities)
 - [Connecticut](./connecticut/README.md) (42 cities)
 - [Delaware](./delaware/README.md) (1 cities)
 - [Florida](./florida/README.md) (76 cities)
-- [Georgia](./georgia/README.md) (73 cities)
+- [Georgia](./georgia/README.md) (78 cities)
 - [Illinois](./illinois/README.md) (81 cities)
 - [Indiana](./indiana/README.md) (23 cities)
 - [Iowa](./iowa/README.md) (39 cities)

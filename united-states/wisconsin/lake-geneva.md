@@ -21,4 +21,4 @@ Find the best dry cleaners in Lake Geneva, Wisconsin, United States. We've compi
 
 ---
 
-*Last updated: 2/2/2026*
+*Last updated: 2/3/2026*

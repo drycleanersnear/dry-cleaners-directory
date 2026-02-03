@@ -21,6 +21,7 @@ Browse dry cleaners by city in Alabama:
 - [Midland City](./midland-city.md)
 - [Monroeville](./monroeville.md)
 - [Samson](./samson.md)
+- [Wedowee](./wedowee.md)
 
 ---
 

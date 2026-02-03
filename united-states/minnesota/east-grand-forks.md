@@ -14,4 +14,4 @@ Find the best dry cleaners in East Grand Forks, Minnesota, United States. We've 
 
 ---
 
-*Last updated: 2/2/2026*
+*Last updated: 2/3/2026*

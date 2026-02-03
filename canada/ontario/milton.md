@@ -27,4 +27,4 @@ Find the best dry cleaners in Milton, Ontario, Canada. We've compiled a list of 
 
 ---
 
-*Last updated: 2/2/2026*
+*Last updated: 2/3/2026*
