@@ -14,4 +14,4 @@ Find the best dry cleaners in Nescopeck, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 2/3/2026*
+*Last updated: 2/4/2026*

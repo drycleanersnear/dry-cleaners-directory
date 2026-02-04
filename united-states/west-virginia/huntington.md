@@ -38,4 +38,4 @@ Find the best dry cleaners in Huntington, West Virginia, United States. We've co
 
 ---
 
-*Last updated: 2/3/2026*
+*Last updated: 2/4/2026*
