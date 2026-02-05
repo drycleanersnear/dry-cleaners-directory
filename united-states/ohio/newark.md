@@ -33,4 +33,4 @@ Find the best dry cleaners in Newark, Ohio, United States. We've compiled a list
 
 ---
 
-*Last updated: 2/4/2026*
+*Last updated: 2/5/2026*
