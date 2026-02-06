@@ -38,4 +38,4 @@ Find the best dry cleaners in Reading, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 2/5/2026*
+*Last updated: 2/6/2026*
