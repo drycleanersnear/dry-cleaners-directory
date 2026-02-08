@@ -13,4 +13,4 @@ Find the best dry cleaners in Palma, Balearic Islands, Spain. We've compiled a l
 
 ---
 
-*Last updated: 2/7/2026*
+*Last updated: 2/8/2026*

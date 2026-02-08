@@ -15,4 +15,4 @@ Find the best dry cleaners in Hartford, Alabama, United States. We've compiled a
 
 ---
 
-*Last updated: 2/7/2026*
+*Last updated: 2/8/2026*
