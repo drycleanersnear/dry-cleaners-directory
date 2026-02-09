@@ -14,4 +14,4 @@ Find the best dry cleaners in Auerbach in der Oberpfalz, Bayern, Germany. We've 
 
 ---
 
-*Last updated: 2/8/2026*
+*Last updated: 2/9/2026*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Huntingdon, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 2/8/2026*
+*Last updated: 2/9/2026*

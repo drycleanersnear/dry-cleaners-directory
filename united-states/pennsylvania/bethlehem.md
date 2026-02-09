@@ -31,4 +31,4 @@ Find the best dry cleaners in Bethlehem, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 2/8/2026*
+*Last updated: 2/9/2026*
