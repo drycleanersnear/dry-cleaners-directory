@@ -21,4 +21,4 @@ Find the best dry cleaners in Lafayette, Colorado, United States. We've compiled
 
 ---
 
-*Last updated: 2/9/2026*
+*Last updated: 2/10/2026*
