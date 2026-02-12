@@ -25,4 +25,4 @@ Find the best dry cleaners in Boiling Springs, South Carolina, United States. We
 
 ---
 
-*Last updated: 2/11/2026*
+*Last updated: 2/12/2026*
