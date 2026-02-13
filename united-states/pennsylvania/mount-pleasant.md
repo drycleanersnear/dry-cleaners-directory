@@ -19,4 +19,4 @@ Find the best dry cleaners in Mount Pleasant, Pennsylvania, United States. We've
 
 ---
 
-*Last updated: 2/12/2026*
+*Last updated: 2/13/2026*

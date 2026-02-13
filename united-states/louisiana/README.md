@@ -14,6 +14,7 @@ Browse dry cleaners by city in Louisiana:
 - [Marksville](./marksville.md)
 - [Minden](./minden.md)
 - [Moreauville](./moreauville.md)
+- [Oak Grove](./oak-grove.md)
 - [Oakdale](./oakdale.md)
 - [Opelousas](./opelousas.md)
 - [Port Barre](./port-barre.md)
