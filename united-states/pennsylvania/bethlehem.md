@@ -1,6 +1,6 @@
 # Dry Cleaners in Bethlehem, Pennsylvania, United States
 
-Find the best dry cleaners in Bethlehem, Pennsylvania, United States. We've compiled a list of 4 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Bethlehem, Pennsylvania, United States. We've compiled a list of 5 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Pennsylvania/Bethlehem)**
 
@@ -28,7 +28,12 @@ Find the best dry cleaners in Bethlehem, Pennsylvania, United States. We've comp
 🌐 Website: http://www.lighthousewashbasket.com/
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/6970336e4e88758043834d56/lighthouse-washbasket-dry-cleaners)
 
+### 5. [Bethlehem Star Cleaners](https://drycleanersnear.com/dryCleaner/6991291b7b4ca4bd32dee58c/bethlehem-star-cleaners)
+📍 1364 Linden St, Bethlehem
+⭐ Rating: 4.2/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/6991291b7b4ca4bd32dee58c/bethlehem-star-cleaners)
+
 
 ---
 
-*Last updated: 2/13/2026*
+*Last updated: 2/16/2026*

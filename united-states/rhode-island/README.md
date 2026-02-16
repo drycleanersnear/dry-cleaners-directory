@@ -3,6 +3,7 @@
 Browse dry cleaners by city in Rhode Island:
 
 - [Tiverton](./tiverton.md)
+- [Westerly](./westerly.md)
 
 ---
 

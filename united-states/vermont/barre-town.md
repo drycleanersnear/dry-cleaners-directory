@@ -13,4 +13,4 @@ Find the best dry cleaners in Barre Town, Vermont, United States. We've compiled
 
 ---
 
-*Last updated: 2/13/2026*
+*Last updated: 2/16/2026*

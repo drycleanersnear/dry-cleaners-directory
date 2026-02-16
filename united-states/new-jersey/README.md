@@ -26,6 +26,7 @@ Browse dry cleaners by city in New Jersey:
 - [Hawthorne](./hawthorne.md)
 - [Hillsborough Township](./hillsborough-township.md)
 - [Jersey City](./jersey-city.md)
+- [Lambertville](./lambertville.md)
 - [Livingston](./livingston.md)
 - [Maple Shade](./maple-shade.md)
 - [Metuchen](./metuchen.md)

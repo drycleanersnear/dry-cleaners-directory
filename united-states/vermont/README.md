@@ -4,6 +4,7 @@ Browse dry cleaners by city in Vermont:
 
 - [Barre](./barre.md)
 - [Barre Town](./barre-town.md)
+- [Bennington](./bennington.md)
 - [Brighton](./brighton.md)
 - [Cambridge](./cambridge.md)
 - [Castleton](./castleton.md)
@@ -17,6 +18,7 @@ Browse dry cleaners by city in Vermont:
 - [Killington](./killington.md)
 - [Ludlow](./ludlow.md)
 - [Lyndon](./lyndon.md)
+- [Manchester](./manchester.md)
 - [Middlebury](./middlebury.md)
 - [Montpelier](./montpelier.md)
 - [Morristown](./morristown.md)
@@ -33,6 +35,7 @@ Browse dry cleaners by city in Vermont:
 - [Waterbury](./waterbury.md)
 - [Weathersfield](./weathersfield.md)
 - [West Rutland](./west-rutland.md)
+- [Wilmington](./wilmington.md)
 - [Windsor](./windsor.md)
 
 ---

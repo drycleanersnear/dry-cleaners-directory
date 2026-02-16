@@ -41,4 +41,4 @@ Find the best dry cleaners in Edwards, Colorado, United States. We've compiled a
 
 ---
 
-*Last updated: 2/13/2026*
+*Last updated: 2/16/2026*
