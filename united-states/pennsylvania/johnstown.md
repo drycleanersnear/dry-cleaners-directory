@@ -41,4 +41,4 @@ Find the best dry cleaners in Johnstown, Pennsylvania, United States. We've comp
 
 ---
 
-*Last updated: 2/17/2026*
+*Last updated: 2/18/2026*

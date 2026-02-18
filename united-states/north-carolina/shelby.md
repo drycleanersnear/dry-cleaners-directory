@@ -24,4 +24,4 @@ Find the best dry cleaners in Shelby, North Carolina, United States. We've compi
 
 ---
 
-*Last updated: 2/17/2026*
+*Last updated: 2/18/2026*

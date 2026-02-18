@@ -32,4 +32,4 @@ Find the best dry cleaners in Goose Creek, South Carolina, United States. We've 
 
 ---
 
-*Last updated: 2/17/2026*
+*Last updated: 2/18/2026*

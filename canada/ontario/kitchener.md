@@ -52,4 +52,4 @@ Find the best dry cleaners in Kitchener, Ontario, Canada. We've compiled a list 
 
 ---
 
-*Last updated: 2/17/2026*
+*Last updated: 2/18/2026*

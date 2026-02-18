@@ -19,4 +19,4 @@ Find the best dry cleaners in Bedford, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 2/17/2026*
+*Last updated: 2/18/2026*
