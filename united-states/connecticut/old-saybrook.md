@@ -15,4 +15,4 @@ Find the best dry cleaners in Old Saybrook, Connecticut, United States. We've co
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

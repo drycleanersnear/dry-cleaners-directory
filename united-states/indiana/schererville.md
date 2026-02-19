@@ -19,4 +19,4 @@ Find the best dry cleaners in Schererville, Indiana, United States. We've compil
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Quakertown, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

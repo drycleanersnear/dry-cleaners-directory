@@ -21,4 +21,4 @@ Find the best dry cleaners in South Windsor, Connecticut, United States. We've c
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

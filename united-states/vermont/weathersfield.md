@@ -15,4 +15,4 @@ Find the best dry cleaners in Weathersfield, Vermont, United States. We've compi
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

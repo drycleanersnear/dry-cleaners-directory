@@ -21,4 +21,4 @@ Find the best dry cleaners in Beaufort, South Carolina, United States. We've com
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*

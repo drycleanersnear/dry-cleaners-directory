@@ -20,4 +20,4 @@ Find the best dry cleaners in Bay Minette, Alabama, United States. We've compile
 
 ---
 
-*Last updated: 2/18/2026*
+*Last updated: 2/19/2026*
