@@ -14,4 +14,4 @@ Find the best dry cleaners in Sóller, Illes Balears, Spain. We've compiled a li
 
 ---
 
-*Last updated: 2/19/2026*
+*Last updated: 2/20/2026*

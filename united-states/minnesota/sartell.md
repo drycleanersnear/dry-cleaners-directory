@@ -25,4 +25,4 @@ Find the best dry cleaners in Sartell, Minnesota, United States. We've compiled 
 
 ---
 
-*Last updated: 2/19/2026*
+*Last updated: 2/20/2026*

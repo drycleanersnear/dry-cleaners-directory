@@ -25,4 +25,4 @@ Find the best dry cleaners in Hummelstown, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 2/19/2026*
+*Last updated: 2/20/2026*

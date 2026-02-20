@@ -15,4 +15,4 @@ Find the best dry cleaners in Westerly, Rhode Island, United States. We've compi
 
 ---
 
-*Last updated: 2/19/2026*
+*Last updated: 2/20/2026*
