@@ -61,6 +61,7 @@ Browse dry cleaners by city in Ohio:
 - [Mount Vernon](./mount-vernon.md)
 - [New Albany](./new-albany.md)
 - [New Boston](./new-boston.md)
+- [New Madison](./new-madison.md)
 - [Newark](./newark.md)
 - [Niles](./niles.md)
 - [North Canton](./north-canton.md)

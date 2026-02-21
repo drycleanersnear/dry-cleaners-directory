@@ -14,4 +14,4 @@ Find the best dry cleaners in Parsberg, Bayern, Germany. We've compiled a list o
 
 ---
 
-*Last updated: 2/20/2026*
+*Last updated: 2/21/2026*
