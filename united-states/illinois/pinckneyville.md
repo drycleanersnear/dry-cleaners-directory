@@ -14,4 +14,4 @@ Find the best dry cleaners in Pinckneyville, Illinois, United States. We've comp
 
 ---
 
-*Last updated: 2/21/2026*
+*Last updated: 2/22/2026*

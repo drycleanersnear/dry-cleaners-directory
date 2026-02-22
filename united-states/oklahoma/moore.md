@@ -20,4 +20,4 @@ Find the best dry cleaners in Moore, Oklahoma, United States. We've compiled a l
 
 ---
 
-*Last updated: 2/21/2026*
+*Last updated: 2/22/2026*

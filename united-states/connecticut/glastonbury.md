@@ -27,4 +27,4 @@ Find the best dry cleaners in Glastonbury, Connecticut, United States. We've com
 
 ---
 
-*Last updated: 2/21/2026*
+*Last updated: 2/22/2026*

@@ -44,4 +44,4 @@ Find the best dry cleaners in New Bedford, Massachusetts, United States. We've c
 
 ---
 
-*Last updated: 2/21/2026*
+*Last updated: 2/22/2026*
