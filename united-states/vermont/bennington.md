@@ -37,4 +37,4 @@ Find the best dry cleaners in Bennington, Vermont, United States. We've compiled
 
 ---
 
-*Last updated: 2/23/2026*
+*Last updated: 2/24/2026*
