@@ -26,4 +26,4 @@ Find the best dry cleaners in Independence, Missouri, United States. We've compi
 
 ---
 
-*Last updated: 2/25/2026*
+*Last updated: 2/26/2026*

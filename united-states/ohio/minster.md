@@ -15,4 +15,4 @@ Find the best dry cleaners in Minster, Ohio, United States. We've compiled a lis
 
 ---
 
-*Last updated: 2/25/2026*
+*Last updated: 2/26/2026*
