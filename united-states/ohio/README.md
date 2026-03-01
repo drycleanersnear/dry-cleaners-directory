@@ -57,6 +57,7 @@ Browse dry cleaners by city in Ohio:
 - [Marysville](./marysville.md)
 - [McArthur](./mcarthur.md)
 - [Medina](./medina.md)
+- [Mineral Ridge](./mineral-ridge.md)
 - [Minster](./minster.md)
 - [Mount Vernon](./mount-vernon.md)
 - [New Albany](./new-albany.md)
@@ -80,6 +81,7 @@ Browse dry cleaners by city in Ohio:
 - [Russells Point](./russells-point.md)
 - [Saint Clairsville](./saint-clairsville.md)
 - [Saint Marys](./saint-marys.md)
+- [Salem](./salem.md)
 - [Shadyside](./shadyside.md)
 - [Sidney](./sidney.md)
 - [Solon](./solon.md)
@@ -99,6 +101,7 @@ Browse dry cleaners by city in Ohio:
 - [Whitehall](./whitehall.md)
 - [Wooster](./wooster.md)
 - [Worthington](./worthington.md)
+- [Youngstown](./youngstown.md)
 
 ---
 
