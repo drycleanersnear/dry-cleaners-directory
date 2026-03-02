@@ -7,6 +7,7 @@ Browse dry cleaners by city in South Carolina:
 - [Boiling Springs](./boiling-springs.md)
 - [Charleston](./charleston.md)
 - [Clinton](./clinton.md)
+- [Easley](./easley.md)
 - [Gaffney](./gaffney.md)
 - [Goose Creek](./goose-creek.md)
 - [Greenville](./greenville.md)
@@ -31,6 +32,7 @@ Browse dry cleaners by city in South Carolina:
 - [Spartanburg](./spartanburg.md)
 - [Summerville](./summerville.md)
 - [Taylors](./taylors.md)
+- [Travelers Rest](./travelers-rest.md)
 - [Union](./union.md)
 - [Woodruff](./woodruff.md)
 
