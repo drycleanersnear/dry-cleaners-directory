@@ -14,4 +14,4 @@ Find the best dry cleaners in Thomaston, Georgia, United States. We've compiled 
 
 ---
 
-*Last updated: 3/2/2026*
+*Last updated: 3/3/2026*
