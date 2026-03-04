@@ -5,6 +5,7 @@ Browse dry cleaners by city in Oregon:
 - [Aloha](./aloha.md)
 - [Astoria](./astoria.md)
 - [Beaverton](./beaverton.md)
+- [Chiloquin](./chiloquin.md)
 - [Coburg](./coburg.md)
 - [Cottage Grove](./cottage-grove.md)
 - [Creswell](./creswell.md)
