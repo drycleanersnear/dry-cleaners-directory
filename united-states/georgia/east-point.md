@@ -20,4 +20,4 @@ Find the best dry cleaners in East Point, Georgia, United States. We've compiled
 
 ---
 
-*Last updated: 3/4/2026*
+*Last updated: 3/5/2026*
