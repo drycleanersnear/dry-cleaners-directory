@@ -24,6 +24,7 @@ Browse dry cleaners by city in West Virginia:
 - [Martinsburg](./martinsburg.md)
 - [Milton](./milton.md)
 - [Moorefield](./moorefield.md)
+- [Morgantown](./morgantown.md)
 - [New Martinsville](./new-martinsville.md)
 - [Nitro](./nitro.md)
 - [Petersburg](./petersburg.md)
