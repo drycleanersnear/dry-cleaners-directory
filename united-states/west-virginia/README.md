@@ -22,6 +22,7 @@ Browse dry cleaners by city in West Virginia:
 - [Keyser](./keyser.md)
 - [Logan](./logan.md)
 - [Martinsburg](./martinsburg.md)
+- [Mill Creek](./mill-creek.md)
 - [Milton](./milton.md)
 - [Moorefield](./moorefield.md)
 - [Morgantown](./morgantown.md)
