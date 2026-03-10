@@ -15,4 +15,4 @@ Find the best dry cleaners in Crookston, Minnesota, United States. We've compile
 
 ---
 
-*Last updated: 3/9/2026*
+*Last updated: 3/10/2026*
