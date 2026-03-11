@@ -14,4 +14,4 @@ Find the best dry cleaners in L'Anse, Michigan, United States. We've compiled a 
 
 ---
 
-*Last updated: 3/10/2026*
+*Last updated: 3/11/2026*
