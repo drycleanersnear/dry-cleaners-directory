@@ -23,4 +23,4 @@ Find the best dry cleaners in Galesburg, Illinois, United States. We've compiled
 
 ---
 
-*Last updated: 3/11/2026*
+*Last updated: 3/12/2026*
