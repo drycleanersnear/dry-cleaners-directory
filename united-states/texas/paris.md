@@ -24,4 +24,4 @@ Find the best dry cleaners in Paris, Texas, United States. We've compiled a list
 
 ---
 
-*Last updated: 3/12/2026*
+*Last updated: 3/13/2026*
