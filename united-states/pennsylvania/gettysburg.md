@@ -25,4 +25,4 @@ Find the best dry cleaners in Gettysburg, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 3/13/2026*
+*Last updated: 3/14/2026*

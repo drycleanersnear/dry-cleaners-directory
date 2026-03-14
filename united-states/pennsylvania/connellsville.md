@@ -20,4 +20,4 @@ Find the best dry cleaners in Connellsville, Pennsylvania, United States. We've 
 
 ---
 
-*Last updated: 3/13/2026*
+*Last updated: 3/14/2026*
