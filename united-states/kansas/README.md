@@ -4,6 +4,7 @@ Browse dry cleaners by city in Kansas:
 
 - [Ellis](./ellis.md)
 - [Fairway](./fairway.md)
+- [Hays](./hays.md)
 - [Kansas City](./kansas-city.md)
 - [Lansing](./lansing.md)
 - [Lawrence](./lawrence.md)
