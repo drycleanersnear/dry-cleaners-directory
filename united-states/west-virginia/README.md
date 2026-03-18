@@ -6,6 +6,7 @@ Browse dry cleaners by city in West Virginia:
 - [Barboursville](./barboursville.md)
 - [Berkeley Springs](./berkeley-springs.md)
 - [Bridgeport](./bridgeport.md)
+- [Capon Bridge](./capon-bridge.md)
 - [Chapmanville](./chapmanville.md)
 - [Charles Town](./charles-town.md)
 - [Charleston](./charleston.md)
