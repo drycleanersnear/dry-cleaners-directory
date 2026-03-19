@@ -1,6 +1,6 @@
 # Dry Cleaners in Hicksville, New York, United States
 
-Find the best dry cleaners in Hicksville, New York, United States. We've compiled a list of 3 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in Hicksville, New York, United States. We've compiled a list of 4 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/New%20York/Hicksville)**
 
@@ -17,7 +17,12 @@ Find the best dry cleaners in Hicksville, New York, United States. We've compile
 ⭐ Rating: 4.2/5
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/693cc91d1a8f3b40e1d4cc9f/marcello-s-dry-cleaner)
 
-### 3. [VJAG Laundry & Dry Cleaners](https://drycleanersnear.com/dryCleaner/686dcd2e04b0376d46bba421/vjag-laundry-dry-cleaners)
+### 3. [R and J Dry Cleaners](https://drycleanersnear.com/dryCleaner/69bb5a178de1ddd33c7ef43b/r-and-j-dry-cleaners)
+📍 447 S Broadway, Hicksville
+⭐ Rating: 4.2/5
+🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/69bb5a178de1ddd33c7ef43b/r-and-j-dry-cleaners)
+
+### 4. [VJAG Laundry & Dry Cleaners](https://drycleanersnear.com/dryCleaner/686dcd2e04b0376d46bba421/vjag-laundry-dry-cleaners)
 📍 604 S Oyster Bay Rd, Hicksville
 ⭐ Rating: 4/5
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/686dcd2e04b0376d46bba421/vjag-laundry-dry-cleaners)
@@ -25,4 +30,4 @@ Find the best dry cleaners in Hicksville, New York, United States. We've compile
 
 ---
 
-*Last updated: 3/18/2026*
+*Last updated: 3/19/2026*
