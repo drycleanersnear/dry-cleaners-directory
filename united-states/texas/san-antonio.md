@@ -1,6 +1,6 @@
 # Dry Cleaners in San Antonio, Texas, United States
 
-Find the best dry cleaners in San Antonio, Texas, United States. We've compiled a list of 87 dry cleaning services to help you find the perfect one for your needs.
+Find the best dry cleaners in San Antonio, Texas, United States. We've compiled a list of 98 dry cleaning services to help you find the perfect one for your needs.
 
 🌐 **[View Full Directory on DryCleanersNear.com](https://drycleanersnear.com/city/US/Texas/San%20Antonio)**
 
@@ -64,10 +64,10 @@ Find the best dry cleaners in San Antonio, Texas, United States. We've compiled 
 🔗 [View Full Details](https://drycleanersnear.com/dryCleaner/689bf1b8010bf80bea4b0389/comet-cleaners-and-laundry-san-antonio)
 
 
-*...and 77 more dry cleaners!*
+*...and 88 more dry cleaners!*
 
-[View all 87 dry cleaners in San Antonio →](https://drycleanersnear.com/city/US/Texas/San%20Antonio)
+[View all 98 dry cleaners in San Antonio →](https://drycleanersnear.com/city/US/Texas/San%20Antonio)
 
 ---
 
-*Last updated: 3/19/2026*
+*Last updated: 3/21/2026*
