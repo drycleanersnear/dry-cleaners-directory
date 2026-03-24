@@ -3,6 +3,8 @@
 Browse dry cleaners by city in Utah:
 
 - [Garden City](./garden-city.md)
+- [Hyrum](./hyrum.md)
+- [Logan](./logan.md)
 - [Smithfield](./smithfield.md)
 
 ---
