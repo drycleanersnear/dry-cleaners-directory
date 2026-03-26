@@ -20,4 +20,4 @@ Find the best dry cleaners in Wallingford, Connecticut, United States. We've com
 
 ---
 
-*Last updated: 3/24/2026*
+*Last updated: 3/26/2026*

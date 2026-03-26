@@ -152,6 +152,7 @@ Browse dry cleaners by city in Pennsylvania:
 - [Oakmont](./oakmont.md)
 - [Orwigsburg](./orwigsburg.md)
 - [Paoli](./paoli.md)
+- [Parkesburg](./parkesburg.md)
 - [Paxinos](./paxinos.md)
 - [Pen Argyl](./pen-argyl.md)
 - [Philadelphia](./philadelphia.md)

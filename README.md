@@ -8,14 +8,14 @@ Welcome to the comprehensive directory of dry cleaners worldwide. This repositor
 
 - [Australia](./australia/README.md) (5 states/regions, 128 cities)
 - [Belgium](./belgium/README.md) (2 states/regions, 3 cities)
-- [Canada](./canada/README.md) (6 states/regions, 38 cities)
+- [Canada](./canada/README.md) (6 states/regions, 39 cities)
 - [France](./france/README.md) (2 states/regions, 79 cities)
 - [Germany](./germany/README.md) (2 states/regions, 25 cities)
 - [Luxembourg](./luxembourg/README.md) (1 states/regions, 1 cities)
 - [Mexico](./mexico/README.md) (3 states/regions, 6 cities)
 - [Spain](./spain/README.md) (3 states/regions, 21 cities)
 - [United Kingdom](./united-kingdom/README.md) (3 states/regions, 74 cities)
-- [United States](./united-states/README.md) (52 states/regions, 1990 cities)
+- [United States](./united-states/README.md) (52 states/regions, 2003 cities)
 
 ## About This Directory
 
@@ -49,4 +49,4 @@ To add or update dry cleaner information, please visit [DryCleanersNear.com](htt
 ---
 
 *This directory is automatically generated and updated daily.*
-*Last updated: 3/24/2026*
+*Last updated: 3/26/2026*

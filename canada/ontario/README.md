@@ -17,6 +17,7 @@ Browse dry cleaners by city in Ontario:
 - [Kitchener](./kitchener.md)
 - [Milton](./milton.md)
 - [Mississauga](./mississauga.md)
+- [Prescott](./prescott.md)
 - [Richmond Hill](./richmond-hill.md)
 - [Stratford](./stratford.md)
 - [Terra Cotta](./terra-cotta.md)

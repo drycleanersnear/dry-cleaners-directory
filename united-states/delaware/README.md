@@ -2,6 +2,8 @@
 
 Browse dry cleaners by city in Delaware:
 
+- [Middletown](./middletown.md)
+- [Newark](./newark.md)
 - [Wilmington](./wilmington.md)
 
 ---
