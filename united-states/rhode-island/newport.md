@@ -15,4 +15,4 @@ Find the best dry cleaners in Newport, Rhode Island, United States. We've compil
 
 ---
 
-*Last updated: 3/29/2026*
+*Last updated: 3/30/2026*
