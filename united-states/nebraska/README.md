@@ -2,8 +2,11 @@
 
 Browse dry cleaners by city in Nebraska:
 
+- [Columbus](./columbus.md)
 - [Holdrege](./holdrege.md)
 - [Kearney](./kearney.md)
+- [Lincoln](./lincoln.md)
+- [Seward](./seward.md)
 
 ---
 

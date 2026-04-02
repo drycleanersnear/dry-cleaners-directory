@@ -81,6 +81,7 @@ Browse dry cleaners by city in Missouri:
 - [Village of Four Seasons](./village-of-four-seasons.md)
 - [Warsaw](./warsaw.md)
 - [Washington](./washington.md)
+- [Wayland](./wayland.md)
 - [Weldon Spring](./weldon-spring.md)
 
 ---
