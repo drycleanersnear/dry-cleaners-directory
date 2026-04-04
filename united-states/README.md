@@ -8,7 +8,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 
 - [Alabama](./alabama/README.md) (35 cities)
 - [Arkansas](./arkansas/README.md) (47 cities)
-- [California](./california/README.md) (42 cities)
+- [California](./california/README.md) (61 cities)
 - [Colorado](./colorado/README.md) (28 cities)
 - [Connecticut](./connecticut/README.md) (56 cities)
 - [Delaware](./delaware/README.md) (3 cities)
@@ -17,7 +17,7 @@ Welcome to the comprehensive directory of dry cleaners across United States. Thi
 - [Idaho](./idaho/README.md) (3 cities)
 - [Illinois](./illinois/README.md) (114 cities)
 - [Indiana](./indiana/README.md) (59 cities)
-- [Iowa](./iowa/README.md) (52 cities)
+- [Iowa](./iowa/README.md) (55 cities)
 - [Kansas](./kansas/README.md) (15 cities)
 - [Kentucky](./kentucky/README.md) (27 cities)
 - [Louisiana](./louisiana/README.md) (30 cities)
