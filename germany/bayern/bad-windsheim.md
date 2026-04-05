@@ -15,4 +15,4 @@ Find the best dry cleaners in Bad Windsheim, Bayern, Germany. We've compiled a l
 
 ---
 
-*Last updated: 4/4/2026*
+*Last updated: 4/5/2026*

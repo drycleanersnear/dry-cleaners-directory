@@ -21,4 +21,4 @@ Find the best dry cleaners in North Kingstown, Rhode Island, United States. We'v
 
 ---
 
-*Last updated: 4/4/2026*
+*Last updated: 4/5/2026*
