@@ -26,4 +26,4 @@ Find the best dry cleaners in Newburgh, Indiana, United States. We've compiled a
 
 ---
 
-*Last updated: 4/25/2026*
+*Last updated: 4/26/2026*
