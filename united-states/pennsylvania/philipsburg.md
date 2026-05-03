@@ -21,4 +21,4 @@ Find the best dry cleaners in Philipsburg, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 5/2/2026*
+*Last updated: 5/3/2026*
