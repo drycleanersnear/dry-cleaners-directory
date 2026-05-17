@@ -15,4 +15,4 @@ Find the best dry cleaners in South Kingstown, Rhode Island, United States. We'v
 
 ---
 
-*Last updated: 5/3/2026*
+*Last updated: 5/17/2026*
