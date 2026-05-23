@@ -26,4 +26,4 @@ Find the best dry cleaners in Lansing, Illinois, United States. We've compiled a
 
 ---
 
-*Last updated: 5/17/2026*
+*Last updated: 5/23/2026*

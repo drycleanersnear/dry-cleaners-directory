@@ -69,4 +69,4 @@ Find the best dry cleaners in Bloomington, Indiana, United States. We've compile
 
 ---
 
-*Last updated: 5/17/2026*
+*Last updated: 5/23/2026*
