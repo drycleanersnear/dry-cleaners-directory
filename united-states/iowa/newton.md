@@ -29,4 +29,4 @@ Find the best dry cleaners in Newton, Iowa, United States. We've compiled a list
 
 ---
 
-*Last updated: 5/24/2026*
+*Last updated: 6/2/2026*

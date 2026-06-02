@@ -24,4 +24,4 @@ Find the best dry cleaners in Greencastle, Indiana, United States. We've compile
 
 ---
 
-*Last updated: 5/24/2026*
+*Last updated: 6/2/2026*

@@ -32,4 +32,4 @@ Find the best dry cleaners in Hartford, Connecticut, United States. We've compil
 
 ---
 
-*Last updated: 5/24/2026*
+*Last updated: 6/2/2026*
