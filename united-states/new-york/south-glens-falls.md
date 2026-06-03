@@ -14,4 +14,4 @@ Find the best dry cleaners in South Glens Falls, New York, United States. We've 
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*

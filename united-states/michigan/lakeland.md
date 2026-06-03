@@ -64,4 +64,4 @@ Find the best dry cleaners in Lakeland, Michigan, United States. We've compiled 
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*

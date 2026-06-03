@@ -15,4 +15,4 @@ Find the best dry cleaners in Hale, England, United Kingdom. We've compiled a li
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*

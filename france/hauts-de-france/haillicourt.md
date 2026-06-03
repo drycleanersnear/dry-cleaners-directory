@@ -15,4 +15,4 @@ Find the best dry cleaners in Haillicourt, Hauts-de-France, France. We've compil
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*

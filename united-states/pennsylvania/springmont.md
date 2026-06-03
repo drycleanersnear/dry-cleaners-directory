@@ -13,4 +13,4 @@ Find the best dry cleaners in Springmont, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*

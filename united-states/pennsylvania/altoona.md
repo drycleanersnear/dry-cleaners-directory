@@ -41,4 +41,4 @@ Find the best dry cleaners in Altoona, Pennsylvania, United States. We've compil
 
 ---
 
-*Last updated: 6/2/2026*
+*Last updated: 6/3/2026*
