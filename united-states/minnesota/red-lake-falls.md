@@ -14,4 +14,4 @@ Find the best dry cleaners in Red Lake Falls, Minnesota, United States. We've co
 
 ---
 
-*Last updated: 6/3/2026*
+*Last updated: 6/5/2026*

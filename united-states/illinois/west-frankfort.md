@@ -19,4 +19,4 @@ Find the best dry cleaners in West Frankfort, Illinois, United States. We've com
 
 ---
 
-*Last updated: 6/3/2026*
+*Last updated: 6/5/2026*

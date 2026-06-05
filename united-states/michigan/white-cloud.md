@@ -14,4 +14,4 @@ Find the best dry cleaners in White Cloud, Michigan, United States. We've compil
 
 ---
 
-*Last updated: 6/3/2026*
+*Last updated: 6/5/2026*

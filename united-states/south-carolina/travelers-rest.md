@@ -15,4 +15,4 @@ Find the best dry cleaners in Travelers Rest, South Carolina, United States. We'
 
 ---
 
-*Last updated: 6/3/2026*
+*Last updated: 6/5/2026*

@@ -15,4 +15,4 @@ Find the best dry cleaners in La Madeleine, Hauts-de-France, France. We've compi
 
 ---
 
-*Last updated: 6/3/2026*
+*Last updated: 6/5/2026*
