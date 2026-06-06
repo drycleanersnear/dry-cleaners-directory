@@ -15,4 +15,4 @@ Find the best dry cleaners in Gent, Vlaanderen, Belgium. We've compiled a list o
 
 ---
 
-*Last updated: 6/5/2026*
+*Last updated: 6/6/2026*
