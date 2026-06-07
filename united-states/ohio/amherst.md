@@ -14,4 +14,4 @@ Find the best dry cleaners in Amherst, Ohio, United States. We've compiled a lis
 
 ---
 
-*Last updated: 6/6/2026*
+*Last updated: 6/7/2026*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Nœux-les-Mines, Hauts-de-France, France. We've co
 
 ---
 
-*Last updated: 6/6/2026*
+*Last updated: 6/7/2026*

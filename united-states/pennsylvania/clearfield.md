@@ -30,4 +30,4 @@ Find the best dry cleaners in Clearfield, Pennsylvania, United States. We've com
 
 ---
 
-*Last updated: 6/6/2026*
+*Last updated: 6/7/2026*

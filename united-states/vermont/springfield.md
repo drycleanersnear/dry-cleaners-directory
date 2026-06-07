@@ -19,4 +19,4 @@ Find the best dry cleaners in Springfield, Vermont, United States. We've compile
 
 ---
 
-*Last updated: 6/6/2026*
+*Last updated: 6/7/2026*

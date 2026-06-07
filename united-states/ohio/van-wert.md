@@ -19,4 +19,4 @@ Find the best dry cleaners in Van Wert, Ohio, United States. We've compiled a li
 
 ---
 
-*Last updated: 6/6/2026*
+*Last updated: 6/7/2026*
