@@ -46,4 +46,4 @@ Find the best dry cleaners in Clovis, California, United States. We've compiled 
 
 ---
 
-*Last updated: 6/7/2026*
+*Last updated: 6/8/2026*

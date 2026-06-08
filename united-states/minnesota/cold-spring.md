@@ -14,4 +14,4 @@ Find the best dry cleaners in Cold Spring, Minnesota, United States. We've compi
 
 ---
 
-*Last updated: 6/7/2026*
+*Last updated: 6/8/2026*
