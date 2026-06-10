@@ -20,4 +20,4 @@ Find the best dry cleaners in Canning Vale, Western Australia, Australia. We've 
 
 ---
 
-*Last updated: 6/8/2026*
+*Last updated: 6/10/2026*
