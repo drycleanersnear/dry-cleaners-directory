@@ -44,4 +44,4 @@ Find the best dry cleaners in Lee's Summit, Missouri, United States. We've compi
 
 ---
 
-*Last updated: 6/10/2026*
+*Last updated: 6/26/2026*

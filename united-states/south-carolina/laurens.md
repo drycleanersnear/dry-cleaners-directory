@@ -14,4 +14,4 @@ Find the best dry cleaners in Laurens, South Carolina, United States. We've comp
 
 ---
 
-*Last updated: 6/10/2026*
+*Last updated: 6/26/2026*
