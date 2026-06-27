@@ -15,4 +15,4 @@ Find the best dry cleaners in Highland-on-the-Lake, New York, United States. We'
 
 ---
 
-*Last updated: 6/26/2026*
+*Last updated: 6/27/2026*

@@ -21,4 +21,4 @@ Find the best dry cleaners in Ladson, South Carolina, United States. We've compi
 
 ---
 
-*Last updated: 6/26/2026*
+*Last updated: 6/27/2026*
