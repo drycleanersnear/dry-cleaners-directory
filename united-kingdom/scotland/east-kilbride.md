@@ -32,4 +32,4 @@ Find the best dry cleaners in East Kilbride, Scotland, United Kingdom. We've com
 
 ---
 
-*Last updated: 6/27/2026*
+*Last updated: 6/28/2026*

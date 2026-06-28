@@ -20,4 +20,4 @@ Find the best dry cleaners in Wells, Maine, United States. We've compiled a list
 
 ---
 
-*Last updated: 6/27/2026*
+*Last updated: 6/28/2026*

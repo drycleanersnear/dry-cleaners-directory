@@ -26,4 +26,4 @@ Find the best dry cleaners in McKees Rocks, Pennsylvania, United States. We've c
 
 ---
 
-*Last updated: 6/27/2026*
+*Last updated: 6/28/2026*

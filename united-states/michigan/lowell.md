@@ -15,4 +15,4 @@ Find the best dry cleaners in Lowell, Michigan, United States. We've compiled a 
 
 ---
 
-*Last updated: 6/27/2026*
+*Last updated: 6/28/2026*

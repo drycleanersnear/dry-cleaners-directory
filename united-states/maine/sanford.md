@@ -19,4 +19,4 @@ Find the best dry cleaners in Sanford, Maine, United States. We've compiled a li
 
 ---
 
-*Last updated: 6/27/2026*
+*Last updated: 6/28/2026*
