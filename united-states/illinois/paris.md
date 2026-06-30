@@ -14,4 +14,4 @@ Find the best dry cleaners in Paris, Illinois, United States. We've compiled a l
 
 ---
 
-*Last updated: 6/28/2026*
+*Last updated: 6/30/2026*

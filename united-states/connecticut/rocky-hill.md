@@ -20,4 +20,4 @@ Find the best dry cleaners in Rocky Hill, Connecticut, United States. We've comp
 
 ---
 
-*Last updated: 6/28/2026*
+*Last updated: 6/30/2026*

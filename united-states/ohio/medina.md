@@ -21,4 +21,4 @@ Find the best dry cleaners in Medina, Ohio, United States. We've compiled a list
 
 ---
 
-*Last updated: 6/28/2026*
+*Last updated: 6/30/2026*

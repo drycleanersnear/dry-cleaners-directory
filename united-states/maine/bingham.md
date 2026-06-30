@@ -20,4 +20,4 @@ Find the best dry cleaners in Bingham, Maine, United States. We've compiled a li
 
 ---
 
-*Last updated: 6/28/2026*
+*Last updated: 6/30/2026*

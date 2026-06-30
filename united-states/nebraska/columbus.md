@@ -31,4 +31,4 @@ Find the best dry cleaners in Columbus, Nebraska, United States. We've compiled 
 
 ---
 
-*Last updated: 6/28/2026*
+*Last updated: 6/30/2026*
