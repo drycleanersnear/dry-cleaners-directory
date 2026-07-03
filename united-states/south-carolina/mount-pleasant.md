@@ -61,4 +61,4 @@ Find the best dry cleaners in Mount Pleasant, South Carolina, United States. We'
 
 ---
 
-*Last updated: 6/30/2026*
+*Last updated: 7/3/2026*

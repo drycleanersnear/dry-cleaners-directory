@@ -20,4 +20,4 @@ Find the best dry cleaners in Lake George, New York, United States. We've compil
 
 ---
 
-*Last updated: 6/30/2026*
+*Last updated: 7/3/2026*

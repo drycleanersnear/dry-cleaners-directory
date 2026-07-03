@@ -44,4 +44,4 @@ Find the best dry cleaners in West Hartford, Connecticut, United States. We've c
 
 ---
 
-*Last updated: 6/30/2026*
+*Last updated: 7/3/2026*
