@@ -15,4 +15,4 @@ Find the best dry cleaners in Allendale, Michigan, United States. We've compiled
 
 ---
 
-*Last updated: 7/3/2026*
+*Last updated: 7/4/2026*
