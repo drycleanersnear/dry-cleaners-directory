@@ -15,4 +15,4 @@ Find the best dry cleaners in Carthage, North Carolina, United States. We've com
 
 ---
 
-*Last updated: 7/4/2026*
+*Last updated: 7/5/2026*

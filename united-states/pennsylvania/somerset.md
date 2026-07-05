@@ -34,4 +34,4 @@ Find the best dry cleaners in Somerset, Pennsylvania, United States. We've compi
 
 ---
 
-*Last updated: 7/4/2026*
+*Last updated: 7/5/2026*
