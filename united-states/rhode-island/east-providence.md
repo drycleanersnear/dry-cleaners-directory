@@ -15,4 +15,4 @@ Find the best dry cleaners in East Providence, Rhode Island, United States. We'v
 
 ---
 
-*Last updated: 7/5/2026*
+*Last updated: 7/8/2026*

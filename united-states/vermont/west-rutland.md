@@ -14,4 +14,4 @@ Find the best dry cleaners in West Rutland, Vermont, United States. We've compil
 
 ---
 
-*Last updated: 7/5/2026*
+*Last updated: 7/8/2026*

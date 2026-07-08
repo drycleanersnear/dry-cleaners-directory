@@ -14,4 +14,4 @@ Find the best dry cleaners in Emporium, Pennsylvania, United States. We've compi
 
 ---
 
-*Last updated: 7/5/2026*
+*Last updated: 7/8/2026*

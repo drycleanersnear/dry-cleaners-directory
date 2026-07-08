@@ -21,4 +21,4 @@ Find the best dry cleaners in Bethel Park, Pennsylvania, United States. We've co
 
 ---
 
-*Last updated: 7/5/2026*
+*Last updated: 7/8/2026*
