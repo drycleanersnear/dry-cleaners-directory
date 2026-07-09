@@ -68,4 +68,4 @@ Find the best dry cleaners in Palma, Illes Balears, Spain. We've compiled a list
 
 ---
 
-*Last updated: 7/8/2026*
+*Last updated: 7/9/2026*
