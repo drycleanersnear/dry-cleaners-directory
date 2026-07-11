@@ -14,4 +14,4 @@ Find the best dry cleaners in Bellingham, Massachusetts, United States. We've co
 
 ---
 
-*Last updated: 7/9/2026*
+*Last updated: 7/11/2026*
