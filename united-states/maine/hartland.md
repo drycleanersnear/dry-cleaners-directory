@@ -15,4 +15,4 @@ Find the best dry cleaners in Hartland, Maine, United States. We've compiled a l
 
 ---
 
-*Last updated: 7/11/2026*
+*Last updated: 7/12/2026*

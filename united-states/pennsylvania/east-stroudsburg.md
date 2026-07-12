@@ -14,4 +14,4 @@ Find the best dry cleaners in East Stroudsburg, Pennsylvania, United States. We'
 
 ---
 
-*Last updated: 7/11/2026*
+*Last updated: 7/12/2026*

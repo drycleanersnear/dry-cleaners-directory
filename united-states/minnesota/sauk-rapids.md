@@ -21,4 +21,4 @@ Find the best dry cleaners in Sauk Rapids, Minnesota, United States. We've compi
 
 ---
 
-*Last updated: 7/11/2026*
+*Last updated: 7/12/2026*
