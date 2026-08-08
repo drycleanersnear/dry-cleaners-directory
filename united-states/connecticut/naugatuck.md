@@ -15,4 +15,4 @@ Find the best dry cleaners in Naugatuck, Connecticut, United States. We've compi
 
 ---
 
-*Last updated: 7/12/2026*
+*Last updated: 8/8/2026*

@@ -15,4 +15,4 @@ Find the best dry cleaners in Cross Lanes, West Virginia, United States. We've c
 
 ---
 
-*Last updated: 7/12/2026*
+*Last updated: 8/8/2026*

@@ -27,4 +27,4 @@ Find the best dry cleaners in Urbandale, Iowa, United States. We've compiled a l
 
 ---
 
-*Last updated: 7/12/2026*
+*Last updated: 8/8/2026*

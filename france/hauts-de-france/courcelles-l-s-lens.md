@@ -15,4 +15,4 @@ Find the best dry cleaners in Courcelles-lès-Lens, Hauts-de-France, France. We'
 
 ---
 
-*Last updated: 7/12/2026*
+*Last updated: 8/8/2026*
