@@ -15,4 +15,4 @@ Find the best dry cleaners in Malaga, Western Australia, Australia. We've compil
 
 ---
 
-*Last updated: 8/8/2026*
+*Last updated: 8/9/2026*

@@ -30,4 +30,4 @@ Find the best dry cleaners in Warwick, Rhode Island, United States. We've compil
 
 ---
 
-*Last updated: 8/8/2026*
+*Last updated: 8/9/2026*

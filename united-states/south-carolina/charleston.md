@@ -71,4 +71,4 @@ Find the best dry cleaners in Charleston, South Carolina, United States. We've c
 
 ---
 
-*Last updated: 8/8/2026*
+*Last updated: 8/9/2026*

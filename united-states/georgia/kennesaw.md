@@ -50,4 +50,4 @@ Find the best dry cleaners in Kennesaw, Georgia, United States. We've compiled a
 
 ---
 
-*Last updated: 8/8/2026*
+*Last updated: 8/9/2026*

@@ -14,4 +14,4 @@ Find the best dry cleaners in Columbus, North Carolina, United States. We've com
 
 ---
 
-*Last updated: 8/8/2026*
+*Last updated: 8/9/2026*
