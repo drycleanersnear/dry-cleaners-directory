@@ -56,4 +56,4 @@ Find the best dry cleaners in Saratoga Springs, New York, United States. We've c
 
 ---
 
-*Last updated: 8/9/2026*
+*Last updated: 8/16/2026*

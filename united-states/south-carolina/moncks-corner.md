@@ -25,4 +25,4 @@ Find the best dry cleaners in Moncks Corner, South Carolina, United States. We'v
 
 ---
 
-*Last updated: 8/9/2026*
+*Last updated: 8/16/2026*

@@ -37,4 +37,4 @@ Find the best dry cleaners in Willmar, Minnesota, United States. We've compiled 
 
 ---
 
-*Last updated: 8/9/2026*
+*Last updated: 8/16/2026*

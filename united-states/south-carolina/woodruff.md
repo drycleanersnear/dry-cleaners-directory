@@ -14,4 +14,4 @@ Find the best dry cleaners in Woodruff, South Carolina, United States. We've com
 
 ---
 
-*Last updated: 8/9/2026*
+*Last updated: 8/16/2026*
